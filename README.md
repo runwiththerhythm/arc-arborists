@@ -1,10 +1,56 @@
 # Arc Arborists
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+- Arc Arborists is a business website for an arboricultural company called 'Arc Arborists'.
+- The website aims to promote the services of the business and generate leads for them. 
+- It displays all relevant information about the business, highlights thier expertise and experience and showcases them to potential customers.
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+## Live project
+[View the live project here] (link to project)
+
+## Screenshots
+
+__Home page__
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+
+__another page__
+
+## Table of contents (use generator)
+
+## User experience
+
+### User stories
+
+- #### New Visitor
+  - As a first time visitor, I need easy navigation and a user-friendly design, including a responsive layout for my device, so I can find information quickly and efficiently without frustration.
+  - As a first time visitor, I want to easily understand the main purpose of the website and learn about the arborist services offered.
+  - As a first time visitor, I want to be able to navigate easily through the site to find the services offered and contact information.
+  - As a first time visitor, I want to read testimonials from previous clients to see if the business is trustworthy and reliable.
+  - As a first time visitor, I want to locate the businesses certifications and qualifications to ensure they are licensed professionals and operate safely.
+
+
+
+- #### Repeat Visitor
+  - As a Returning Visitor, I want to find the contact details quickly so I can request a quote or schedule a consultation.
+  - As a Returning Visitor, I want to find the contact details quickly so I can request a quote or schedule a consultation.
+  - As a Returning Visitor, I want to see examples of completed projects, such as tree removals, pruning, or other arborist work, to help me decide on hiring them.
+
+
+- #### Business Owner
+  - As the Business Owner, I want the website to clearly showcase my expertise and certifications to build trust with potential clients.
+  - As the Business Owner, I want to feature a blog or resource section to establish authority in the industry and drive more traffic to the site via SEO.
+  - As the Business Owner, I want the website to generate leads by including strong calls-to-action, such as 'Get a Free Quote' or 'Schedule a Consultation'.
+  - As the Business Owner, I want to prominently display information about our emergency 24/7 service with out of hours contact details.
+  - As the Business Owner, I want to feature a Careers page to attract new employees.
+
+
+### Wireframes
+
+## Design
+
+### Color scheme
+
+### Typeography 
 
 ## Features 
 
@@ -14,38 +60,32 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all pages, the fully responsive navigation bar includes links to the Logo, Phone number, Home page, About page, Gallery section, Contact section, Blog and a CTA button that triggers an equiry form modal. The navigation is identical on each page to allow for easy navigation and consistency.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
-- __The landing page image__
+- __Hero Section__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The hero section includes a carousel of high quality images and impactful and consise headline and sub-headline.
+  - This section introduces the user to Arc Arborists with an eye catching animation to grab their attention.
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Club Ethos Section__
+- __Cards__
 
   - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
   - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Meetup Times section__
+- __Service cards__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
   - This section will be updated as these times change to keep the user up to date. 
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
-- __The Footer__ 
-
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
-
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
 - __Gallery__
 
@@ -54,11 +94,27 @@ In this section, you should go over the different parts of your project, and des
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-- __The Sign Up Page__
+- __Testimonials__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - The testimonials section will display reviews from previous customers.
+  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+
+![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+
+
+- __Contact Form__
+
+  - This section will allow the user to contact the company. The user will be asked to submit their name and email address. 
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+
+- __The Footer__ 
+
+  - The footer section includes links to the relevant social media sites for Arc Arborists. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media
+
+![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
@@ -67,6 +123,16 @@ In addition, you may also use this section to discuss plans for additional featu
 ### Features Left to Implement
 
 - Another feature idea
+
+## Technologies used
+
+### Languages
+- [HTML](https://en.wikipedia.org/wiki/HTML5)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+
+### Frameworks, Libraries etc
+
+- [Bootstrap 5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 ## Testing 
 
@@ -112,12 +178,18 @@ You can break the credits section up into Content and Media, depending on what y
 
 - The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The icons in the footer were taken from 
 
 ### Media
 
 - The photos used on the home and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
+- Stock images are from [Canva](https://canva.com/)
+
+### Icons
+
+- The majority of icons used are from [Font Awesome](https://fontawesome.com/)
+- Other icons are from [Flaticon] (https://www.flaticon.com/free-icons/) created by juicy_fish, Freepik, Backwoods.
 
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
