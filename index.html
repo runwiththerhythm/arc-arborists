@@ -69,62 +69,87 @@
   </nav>
 
 
-    <!-- Navigation 
-    <nav id="navbar" class="navbar navbar-expand-lg" ></nav>
-        <div class="container">
-          <a class="navbar-brand" href="index.html"></a>
-            <img
-              src="assets/images/arc-arborists-logo1.svg"
-              alt="Arc Arborists company logo"
-              class="logo"
-            />          </a>
-          <button
-            class="navbar-toggler"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarNav"
-            aria-controls="navbarNav"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ms-auto">
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html"
-                  >Home</a
-                >
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#services">Services</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#about">About</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#gallery">Gallery</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#contact">Contact</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Blog</a>
-              </li>
-              <li class="nav-item">
-                <a class="btn custom-button-filled ms-lg-3" href="booking.html"
-                  >Get a quote</a
-                >
-              </li>
-            </ul>
-          </div>
-        </div>
-      </nav>
+    
 
     <!-- Header --> 
-    <header>
-      <!-- Hero section -->
-
+    <!-- Header with carousel-->
+    <header id="header" class="container section">
+      <div class="row">
+        <div class="col-12 col-xl-6 text-center text-xl-start">
+          <h1 class="display-3">ARC ARBORISTS</h1>
+          <p class="lead display-6 sub-heading-color">
+            For all your arboricultural needs
+          </p>
+          <p class="my-4">
+            Welcome to Arc Arborists, we are professional arborists performing tree surgury and all that fun stuff.
+          </p>
+          <a class="btn custom-button-outline mb-4" href="booking.html"
+            >Get a free quotation now</a
+          >
+        </div>
+        <div class="col-12 col-xl-6">
+          <div
+            id="carouselExampleAutoplaying"
+            class="carousel slide"
+            data-bs-ride="carousel"
+          >
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img
+                  src="assets/images/tree-surgery-old-oak-tree.png"
+                  class="d-block w-100"
+                  alt=""
+                />
+              </div>
+              <div class="carousel-item">
+                <img
+                  src="assets/images/log-crane-picker.png"
+                  class="d-block w-100"
+                  alt=""
+                />
+              </div>
+              <div class="carousel-item">
+                <img
+                  src="assets/images/tree-surgery-tall-tree-clouds.png"
+                  class="d-block w-100"
+                  alt=""
+                />
+              </div>
+              <div class="carousel-item">
+                <img
+                  src="assets/images/cherry-picker-forestry.png"
+                  class="d-block w-100"
+                  alt=""
+                />
+              </div>
+            </div>
+            <button
+              class="carousel-control-prev"
+              type="button"
+              data-bs-target="#carouselExampleAutoplaying"
+              data-bs-slide="prev"
+            >
+              <span
+                class="carousel-control-prev-icon"
+                aria-hidden="true"
+              ></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button
+              class="carousel-control-next"
+              type="button"
+              data-bs-target="#carouselExampleAutoplaying"
+              data-bs-slide="next"
+            >
+              <span
+                class="carousel-control-next-icon"
+                aria-hidden="true"
+              ></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+        </div>
+      </div>
     </header>
 
     <!-- Main --> 
@@ -314,7 +339,7 @@
             <h3 class="sub-heading-color">Contact Us</h3>
             <address>
               <strong
-                ><i class="fa-solid fa-location-dot"></i> Arb Arborists</strong
+                ><i class="fa-solid fa-location-dot"></i> Arc Arborists</strong
               ><br />
               123 Treetop Lane,<br />
               Leafyshire, 12345
