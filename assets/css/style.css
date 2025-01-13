@@ -72,3 +72,21 @@ h3 {
 a {
     color: #333333;
 }
+
+/* Services */
+
+i {
+    padding-top: 10%;
+    padding-left: 10%;
+    font-size: 2rem;
+}
+
+.custom-icon {
+    width: 4rem;
+    padding-top: 10%;
+    padding-left: 10%;
+    
+    /* css filter to change icon from black to green*/
+    filter: brightness(0) saturate(100%) invert(15%) sepia(98%) saturate(488%) hue-rotate(88deg) brightness(95%);
+
+}
