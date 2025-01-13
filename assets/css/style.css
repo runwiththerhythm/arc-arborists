@@ -25,9 +25,7 @@ h3 {
     color: var(--primary-color);
 }
 
-.sub-heading-color {
-    color: var(--highlight-color);
-}
+
 
 /* Buttons */
 
@@ -59,8 +57,18 @@ h3 {
 
 #navbar {
     background-color: var(--primary-color);
+    color: var(--secondary-color);
+    justify-content: space-between;
+
 }
 
 #navbar .logo {
-    width: 30px;
+    width: 100px;
+
+}
+
+/* Footer */
+
+a {
+    color: #333333;
 }
