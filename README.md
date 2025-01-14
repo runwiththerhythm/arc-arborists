@@ -189,7 +189,7 @@ You can break the credits section up into Content and Media, depending on what y
 ### Icons
 
 - The majority of icons used are from [Font Awesome](https://fontawesome.com/)
-- Other icons are from [Flaticon] (https://www.flaticon.com/free-icons/) created by juicy_fish, Freepik, Backwoods.
+- Other icons are from [Flaticon] (https://www.flaticon.com/free-icons/) created by juicy_fish, Freepik, Backwoods. https://www.flaticon.com/authors/gregor-cresnar
 
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
