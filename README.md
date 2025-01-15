@@ -5,17 +5,14 @@
 - It displays all relevant information about the business, highlights thier expertise and experience and showcases them to potential customers.
 
 ## Live project
-[View the live project here] (link to project)
+[View the live project here.](https://runwiththerhythm.github.io/arc-arborists/)
 
 ## Screenshots
 
-__Home page__
+to be added when complete
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
-
-__another page__
-
-## Table of contents (use generator)
+## Table of contents 
+use a table of contents generator to generate this when complete
 
 ## User experience
 
@@ -63,28 +60,26 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all pages, the fully responsive navigation bar includes links to the Logo, Phone number, Home page, About page, Gallery section, Contact section, Blog and a CTA button that triggers an equiry form modal. The navigation is identical on each page to allow for easy navigation and consistency.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+
 
 - __Hero Section__
 
   - The hero section includes a carousel of high quality images and impactful and consise headline and sub-headline.
   - This section introduces the user to Arc Arborists with an eye catching animation to grab their attention.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
 - __Cards__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - Larger cards to showcase main services with images and links
+  - This user will see the value of 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
 - __Service cards__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
   - This section will be updated as these times change to keep the user up to date. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+
 
 
 - __Gallery__
@@ -92,28 +87,28 @@ In this section, you should go over the different parts of your project, and des
   - The gallery will provide the user with supporting images to see what the meet ups look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+
 
 - __Testimonials__
 
   - The testimonials section will display reviews from previous customers.
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+
 
 
 - __Contact Form__
 
   - This section will allow the user to contact the company. The user will be asked to submit their name and email address. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Arc Arborists. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+
 
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
@@ -198,8 +193,6 @@ Congratulations on completing your Readme, you have made another big stride in t
 
 Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
 
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
 
 - When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
   - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
@@ -209,4 +202,3 @@ Below you will find a couple of extra tips that may be helpful when completing y
   - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
   - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
 
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 

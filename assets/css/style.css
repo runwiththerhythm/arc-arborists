@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=New+Amsterdam&display=swap');
 
 /* CSS Variables */
 :root {
     --primary-font: "Lora", sans-serif;
-    --secondary-font: "Montserrat", sans-serif;
+    --secondary-font: "New Amsterdam", sans-serif;
     --primary-color: #00832D; /* forest green */
     --secondary-color: #A8B77C; /* soft sage green */
     --highlight-color: #333333; /* charcoal grey */
@@ -20,7 +20,9 @@ body {
 
 h1,
 h2,
-h3 {
+h3,
+h4,
+h5 {
     font-family: var(--secondary-font);
     color: var(--primary-color);
 }
@@ -28,6 +30,10 @@ h3 {
 h1 {
     font-weight: 600;
     font-size: 5rem;
+}
+
+h5 {
+    font-weight: 600;
 }
 
 /* Buttons */
@@ -70,6 +76,11 @@ h1 {
 
 .navbar-text img {
     width: 30px
+}
+
+.navbar-nav {
+    font-family: var(--secondary-font);
+    font-weight: 600;
 }
 
 /* Footer */
