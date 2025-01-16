@@ -162,15 +162,15 @@
 
     <main>
       <!-- Services section -->
-      <div class="container">
+      <div id="services" class="container-fluid section">
         <!-- Top Row: 3 Main Cards -->
-        <div class="row py-2">
+        <div class="row m-3">
           <h2>Our Services</h2>
           <div class="col-12 col-md-12 col-lg-4 mb-3">
             <div class="card h-100">
               <img src="assets/images/tree-surgery-tall-conifer-tree.png" class="card-img-top service-img" alt="Main Service 1">
               <div class="card-body"><div class="icon-heading mb-2"><img src="assets/images/chainsaw.svg" class="heading-icon" alt="siren">
-                <h5 class="card-title">Tree Surgery</h5></div>
+                <h4 class="card-title">Tree Surgery & Shaping</h4></div>
                 <p class="card-text">Our professional tree surgeons are skilled, certified arborists equipped for all tree work including limb removal, crown lifting, forestry, canopy shaping</p>
                 <a href="#" class="btn custom-button-filled">Learn More</a>
               </div>
@@ -181,7 +181,7 @@
               <img src="assets/images/ancient-oak-tree.png" class="card-img-top service-img" alt="Main Service 2">
               <div class="card-body">
                 <div class="icon-heading mb-2"><img src="assets/images/survey.svg" class="heading-icon" alt="siren">
-                <h5 class="card-title">Arboricultural Assesment & Tree Surveys</h5></div>
+                <h4 class="card-title">Arboricultural Assesment & Surveys</h4></div>
                 <p class="card-text">Tree health and risk evaluations, consultancy, site surveys, tree preservation orders (TPOs), compliance and ecological surveys.</p>
                 <a href="#" class="btn custom-button-filled">Learn More</a>
               </div>
@@ -192,7 +192,7 @@
               <img src="assets/images/storm-damaged-trees-fallen.jpg" class="card-img-top service-img" alt="Main Service 3">
               <div class="card-body">
                 <div class="icon-heading mb-2"><img src="assets/images/siren.svg" class="heading-icon" alt="siren">
-                <h5 class="card-title">Emergency Tree Services</h5></div>
+                <h4 class="card-title">Emergency Tree Services</h4></div>
                 <p class="card-text">24/7 365 rapid response callout for storm damage, urgent tree hazards and fallen branches. Our emergency response team can restore safety in unexpected events.</p>
                 <a href="#" class="btn custom-button-filled">Learn More</a>
               </div>
@@ -201,7 +201,7 @@
         </div>
       
         <!-- Bottom Rows: 10 Smaller Cards -->
-        <div class="row justify-content-center mb-4">
+        <div class="row justify-content-center m-3 pb-5">
           <!-- Smaller Cards -->
           <div class="col-6 col-md-4 col-lg-2 mb-3">
             <div class="card h-100">
@@ -308,53 +308,54 @@
         </div>
       </div>
 
-      <!-- Contact form -->
-    <section id="contact" class="container section">
-      <div class="row justify-content-center">
-          <div class="col-12 col-md-8">
-              <h2>Contact us now</h2>
-              <form action="success.html" method="GET">
-                  <div class="row">
-                      <div class="col-12 col-lg-6 mb-3">
-                          <label for="name" class="form-label">Name</label>
-                          <input class="form-control" id="name" name="name" type="text" required>
-                      </div>
-                      <div class="col-12 col-lg-6 mb-3">
-                          <label for="email" class="form-label">Email</label>
-                          <input class="form-control" id="email" name="email" type="email" required>
-                      </div>
-                      <div class="col-12 col-lg-6 mb-3">
-                          <label for="phone" class="form-label">Phone number</label>
-                          <input class="form-control" id="phone" name="phone" type="number" required>
-                      </div>
-                      <div class="col-12 col-lg-6 mb-3">
-                          <label for="service-type" class="form-label">Service required</label>
-                          <select id="service-type" class="form-select" name="service-type" required>
-                              <option selected>Select</option>
-                              <option value="general-enquiry">General enquiry</option>
-                              <option value="tree-surgery">Tree management</option>
-                              <option value="hedgecutting">Hedgecutting</option>
-                              <option value="firewood">Firewood</option>
-                              <option value="other">Other</option>
-                          </select>
-                      </div>
-                      <div class="col-12 mb-3">
-                          <label for="message" class="form-label">Message</label>
-                          <textarea class="form-control" rows="6" id="message" name="message" required></textarea>
-                      </div>
-                  </div>
-
-                  <button type="submit" class="btn custom-button-outline">Submit</button>
-              </form>
-          </div>
-      </div>
-  </section>
 
     </main>
 
     <!-- Footer -->
        <!-- mt-auto to push footer to bottom of page-->
-    <footer class="mt-auto py-5">
+    <footer id="footer" class=" mt-auto py-5">
+      <!-- Contact form -->
+      <section id="contact" class="container section">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-8 py-5">
+                <h2>Contact us now</h2>
+                <form action="success.html" method="GET">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 mb-3">
+                            <label for="name" class="form-label">Name</label>
+                            <input class="form-control" id="name" name="name" type="text" required>
+                        </div>
+                        <div class="col-12 col-lg-6 mb-3">
+                            <label for="email" class="form-label">Email</label>
+                            <input class="form-control" id="email" name="email" type="email" required>
+                        </div>
+                        <div class="col-12 col-lg-6 mb-3">
+                            <label for="phone" class="form-label">Phone number</label>
+                            <input class="form-control" id="phone" name="phone" type="number" required>
+                        </div>
+                        <div class="col-12 col-lg-6 mb-3">
+                            <label for="service-type" class="form-label">Service required</label>
+                            <select id="service-type" class="form-select" name="service-type" required>
+                                <option selected>Select</option>
+                                <option value="general-enquiry">General enquiry</option>
+                                <option value="tree-surgery">Tree management</option>
+                                <option value="hedgecutting">Hedgecutting</option>
+                                <option value="firewood">Firewood</option>
+                                <option value="other">Other</option>
+                            </select>
+                        </div>
+                        <div class="col-12 mb-3">
+                            <label for="message" class="form-label">Message</label>
+                            <textarea class="form-control" rows="6" id="message" name="message" required></textarea>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn custom-button-outline">Submit</button>
+                </form>
+            </div>
+        </div>
+      </section>
+
       <div class="container section">
         <div class="row justify-content-center">
           <div class="col-12 text-center">

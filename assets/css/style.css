@@ -5,16 +5,16 @@
     --primary-font: "Lora", sans-serif;
     --secondary-font: "New Amsterdam", sans-serif;
     --primary-color: #00832D; /* forest green */
-    --secondary-color: #A8B77C; /* soft sage green */
+    --secondary-color: #4E382D; /* brown */
     --highlight-color: #333333; /* charcoal grey */
-    --highlight-color-light: #16A34A; /* pigment green */
+    --highlight-color-light: #EBDAC2; /* pigment green */
 }
 
 /* Global styles */
 
 body {
     font-family: var(--primary-font);
-    background-color: var(--secondary-color);
+    background-color: var(--highlight-color-light);
     color: black;
 }
 
@@ -37,8 +37,8 @@ h2    {
     font-size: 3.5rem;
 }
 
-h5 {
-    font-weight: 600;
+h4 {
+    font-size: 2rem;
 }
 
 /* Buttons */
@@ -85,10 +85,29 @@ h5 {
 
 .navbar-nav {
     font-family: var(--secondary-font);
-    font-weight: 600;
+    font-size: 1.5rem;
 }
 
+
+/* Services */
+#services {
+    background-color: var(--secondary-color);
+}
+
+
 /* Footer */
+
+#footer {
+    background-image: url('../images/tree-forest.png');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    min-height: 300px; /* Adjust height as needed */
+    color: #fff; 
+    position: relative; 
+    z-index: 1; 
+  }
+  
 
 a {
     color: #333333;
