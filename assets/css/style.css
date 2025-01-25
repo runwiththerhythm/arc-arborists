@@ -29,42 +29,51 @@ h5 {
 
 h1 {
     font-weight: 600;
-    font-size: 5rem;
+    font-size: 6rem;
 }
 
 h2    {
     text-align: center;
-    font-size: 3.5rem;
+    font-size: 4rem;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+h3 {
+    font-size: 2.5rem;
 }
 
 h4 {
-    font-size: 2rem;
+    font-size: 3rem;
 }
+
 
 /* Buttons */
 
 .custom-button-filled {
-    border: 2px solid var(--highlight-color);
-    background-color: var(--highlight-color);
-    color: white;
-}
-
-.custom-button-filled:hover {
     border: 2px solid var(--secondary-color);
     background-color: var(--secondary-color);
     color: white;
 }
 
+.custom-button-filled:hover {
+    border: 2px solid var(--secondary-color);
+    background-color: var(--highlight-color-light);
+    color: (--secondary-color);
+}
+
 .custom-button-outline {
-    border: 3px solid var(--highlight-color);
+    border: 3px solid var(--secondary-color);
     padding: 7px 25px;
     background-color: white;
-    color: var(--highlight-color);
+    color: var(--secondary-color);
 }
 
 .custom-button-outline:hover {
-    background-color: var(--highlight-color);
-    color: white;
+    background-color: var(--secondary-color);
+    border: 3px solid var(--highlight-color-light);
+
+    color: var(--highlight-color-light);
 }
 
 /* Navbar */
@@ -95,23 +104,6 @@ h4 {
 }
 
 
-/* Footer */
-
-#footer {
-    background-image: url('../images/tree-forest.png');
-    background-size: cover; 
-    background-position: center; 
-    background-repeat: no-repeat; 
-    min-height: 300px; /* Adjust height as needed */
-    color: #fff; 
-    position: relative; 
-    z-index: 1; 
-  }
-  
-
-a {
-    color: #333333;
-}
 
 /* Services */
 
@@ -135,5 +127,44 @@ a {
     
     /* css filter to change icon from black to green*
     filter: brightness(0) saturate(100%) invert(15%) sepia(98%) saturate(488%) hue-rotate(88deg) brightness(95%);
+
+
+/* Footer */
+
+#footer {
+    background-image: url('../images/tree-forest.png');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    min-height:500px; /* Adjust height as needed */
+    position: relative; 
+    color: #00832D;
+    z-index: 1; 
+  }
+
+#footer .nav-link {
+    color: #EBDAC2;
+    font-size: 1.2em;
+}
+
+.form-label {
+    font-weight: 700;
+    font-size: large;
+    text-shadow: -3px -3px 3px #EBDAC2, 
+    3px -3px 3px #EBDAC2, 
+    -3px 3px 3px #EBDAC2, 
+    3px 3px 3px #EBDAC2;
+}
+
+#footer #contact-us {
+    color: #EBDAC2;
+    font-size: 1.2em;
+}
+
+
+a {
+    color: var(--primary-color);
+    font-size: xx-large;
+}
 
 
