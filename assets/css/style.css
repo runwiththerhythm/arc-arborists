@@ -142,11 +142,6 @@ h4 {
     z-index: 1; 
   }
 
-#footer .nav-link {
-    color: #EBDAC2;
-    font-size: 1.2em;
-}
-
 .form-label {
     font-weight: 700;
     font-size: large;
@@ -156,9 +151,19 @@ h4 {
     3px 3px 3px #EBDAC2;
 }
 
-#footer #contact-us {
+/* Footer custom styles */
+#footer .contact-us,
+#footer .nav-link,
+#footer a,
+#footer .quick-links,
+#footer .contact-us i,
+#footer .quick-links i,
+#footer .contact-us address,
+#footer .quick-links ul,
+#footer .contact-us address i,
+#footer .quick-links ul li a {
+    font-size: 1.2rem;
     color: #EBDAC2;
-    font-size: 1.2em;
 }
 
 
