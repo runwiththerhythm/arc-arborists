@@ -15,7 +15,8 @@
 body {
     font-family: var(--primary-font);
     background-color: var(--highlight-color-light);
-    color: black;
+    color: var(--secondary-color);
+    font-size: 1.2rem;
 }
 
 h1,
@@ -29,14 +30,13 @@ h5 {
 
 h1 {
     font-weight: 600;
-    font-size: 6rem;
+    font-size: 5rem;
+    color: #4E382D;
 }
 
 h2    {
-    text-align: center;
     font-size: 4rem;
     margin-bottom: 3%;
-    margin-top: 3%;
 }
 
 h3 {
@@ -47,6 +47,21 @@ h4 {
     font-size: 3rem;
 }
 
+/* Header */
+/*#header h1 {
+    font-family: var(--primary-font);
+
+}
+    */
+#header h2 {
+    font-family: var(--primary-font);
+    font-size: 2.5rem;
+
+}
+
+#header img {
+    max-height: 400px;
+}
 
 /* Buttons */
 
@@ -146,7 +161,7 @@ h4 {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); /* Flexible grid with 420px minimum size */
     grid-gap: 20px; /* 20px gap between images */
-    grid-auto-rows: 420px; /* Rows will have a base height of 420px */
+    grid-auto-rows: 280px; /* Set the height of each row to be 280px (horizontal images) */
     animation: scroll-left 20s linear infinite;
     width: 200%; /* Increased width to allow scrolling */
   }
@@ -157,15 +172,16 @@ h4 {
     object-fit: cover;
     border-radius: 8px;
     display: block;
+    transition: transform 0.3s ease-in-out; /* Add smooth scaling transition */
   }
   
-  /* Stagger image sizes for a masonry effect */
+  /* Create the masonry effect by varying image heights */
   .masonry img:nth-child(odd) {
-    grid-row-end: span 2; /* Odd images will span 2 rows (taller) */
+    grid-row-end: span 2; /* Odd images will span 2 rows */
   }
   
   .masonry img:nth-child(even) {
-    grid-row-end: span 3; /* Even images will span 3 rows (taller) */
+    grid-row-end: span 1; /* Even images will span only 1 row */
   }
   
   /* Fading Effect on Edges */
@@ -199,6 +215,9 @@ h4 {
       transform: translateX(-100%); /* Ensure the scroll is across the entire container */
     }
   }
+  
+
+  
   
   
   
