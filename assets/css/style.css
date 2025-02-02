@@ -47,12 +47,11 @@ h4 {
     font-size: 3rem;
 }
 
-/* Header */
-/*#header h1 {
-    font-family: var(--primary-font);
-
+h6 {
+    font-size: 1.4rem;
 }
-    */
+
+/* Header */
 #header h2 {
     font-family: var(--primary-font);
     font-size: 2.5rem;
@@ -61,6 +60,7 @@ h4 {
 
 #header img {
     max-height: 400px;
+    border-radius: 3px;
 }
 
 /* Buttons */
@@ -68,7 +68,7 @@ h4 {
 .custom-button-filled {
     border: 2px solid var(--secondary-color);
     background-color: var(--secondary-color);
-    color: white;
+    color: var(--highlight-color-light);
 }
 
 .custom-button-filled:hover {
@@ -77,10 +77,22 @@ h4 {
     color: (--secondary-color);
 }
 
+.custom-button-alt {
+    border: 2px solid var(--primary-color);
+    background-color: var(--primary-color);
+    color: var(--highlight-color-light);
+}
+
+.custom-button-alt:hover {
+    border: 2px solid var(--secondary-color);
+    background-color: var(--highlight-color-light);
+    color: (--secondary-color);
+}
+
 .custom-button-outline {
     border: 3px solid var(--secondary-color);
     padding: 7px 25px;
-    background-color: white;
+    background-color: var(--highlight-color-light);
     color: var(--secondary-color);
 }
 
@@ -94,8 +106,18 @@ h4 {
 /* Navbar */
 
 #navbar {
-    background-color: var(--primary-color);
-    color: var(--secondary-color);
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+}
+
+/* Target active links in the navbar */
+.navbar .nav-link.active {
+    color: var(--highlight-color-light);
+}
+
+/* Target active dropdown items */
+.navbar .nav-link.show {
+    color: var(--highlight-color-light);
 }
 
 #navbar .logo {
@@ -107,9 +129,35 @@ h4 {
     width: 30px
 }
 
-.navbar-nav {
+.navbar-text a {
+    color: #00832D;
+    font-size: 2rem;
     font-family: var(--secondary-font);
-    font-size: 1.5rem;
+}
+
+.navbar-text a:hover{
+    color: var(--highlight-color-light);
+}
+
+.navbar-nav .nav-link {
+    font-family: var(--secondary-font);
+    font-size: 2rem;
+    color: var(--primary-color);
+}
+
+.dropdown-item {
+    color: var(--primary-color);
+    background-color: var(--secondary-color);
+    font-family: var(--secondary-font);
+}
+
+.dropdown-menu {
+    --bs-dropdown-bg:var(--secondary-color)
+}
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: var(--secondary-color); /* Desired hover background color */
+    color: var(--highlight-color-light); /* Optional: text color on hover */
 }
 
 
@@ -131,7 +179,7 @@ h4 {
 
 .icon-heading {
     display: flex; 
-   align-items: center; /* Align vertically in the center */
+    align-items: center; /* Align vertically in the center */
     gap: 8px; /* Add space between icon and text */
   }
 
@@ -139,6 +187,12 @@ h4 {
     width: 3.3rem;
 
 }
+
+.card {
+    background-color: var(--highlight-color-light) !important; 
+    border: 2px solid var(--highlight-color-light) !important; 
+    color: var(--secondary-color); 
+  }
     
     /* css filter to change icon from black to green*
     filter: brightness(0) saturate(100%) invert(15%) sepia(98%) saturate(488%) hue-rotate(88deg) brightness(95%);
