@@ -42,6 +42,8 @@ use a table of contents generator to generate this when complete
 
 
 ### Wireframes
+![Sitemap wireframe](assets/images/sitemap-wireframe.png)
+![Responsive layouts wireframes](assets/images/arc-arborists-wireframes.png.png)
 
 ## Design
 
