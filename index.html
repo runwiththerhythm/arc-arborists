@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Arc Arborists, professional arborists provinding tree surgeon and arboricultural services including tree management and consultancy.">
+    <meta name="description" content="Arc Arborists, professional arborists providing tree surgeon and arboricultural services including tree management and consultancy.">
     <!-- Bootstrap 5 CSS-->
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
@@ -17,17 +17,18 @@
 </head>
 
 <body class="d-flex flex-column min-vh-100">
-  <!-- nav new -->
+  <!-- Navigation -->
   <nav id="navbar" class="navbar navbar-expand-lg ">
-    <div class="container-fluid justify-content-between">
-      <a class="navbar-brand" href="index.html">
+    <div class="container-fluid justify-content-between align-items-center">
+      <a class="navbar-brand d-flex align-items-center"" href="index.html">
         <img
-              src="assets/images/arc-arborists-logo1.svg"
+              src="assets/images/tree-logo.svg"
               alt="Arc Arborists company logo"
-              class="logo"
-            /><h3>Arc Arborists</h3>
+              class="logo me-4 mb-2"
+            />
+          <h2 class="m-0">Arc Arborists</h2>
       </a>
-      <span class="navbar-text ms-2 d-flex align-items-center""><a  href="tel:01234 567890">
+      <span class="navbar-text ms-4 d-flex align-items-center"><a  href="tel:01234 567890">
         <img
               src="assets/images/phone-call.svg"
               alt="phone"
@@ -38,7 +39,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-        <ul class="navbar-nav">
+        <ul class="navbar-nav align-items-center">
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="#">Home</a>
           </li>
@@ -65,7 +66,7 @@
             <a class="nav-link" href="blog.html">Blog</a>
           </li>
           <li class="nav-item">
-            <a class="btn custom-button-alt ms-lg-3" href="quote.html"
+            <a class="btn custom-button-alt ms-lg-3" href="index.html#contact"
               >Get a quote</a>
           </li>
         </ul>
@@ -76,7 +77,7 @@
 
     <!-- Header --> 
     <!-- Header with carousel-->
-    <header id="header" class="container section pt-5 pb-2">
+    <header id="header" class="container-fluid section">
       <div class="row">
         <div class="col-12 col-xl-6 text-center text-xl-start">
           <h1>Welcome to <br>ARC ARBORISTS</h1>
@@ -85,7 +86,7 @@
           <p class="my-4">
             We are professional arborists and masterful tree surgeons performing precision tree care when and where you need it.
           </p>
-          <a class="btn custom-button-alt mb-4" href="booking.html"
+          <a class="btn custom-button-alt mb-4" href="index.html#contact"
             >Get a free quotation now</a
           >
         </div>
@@ -374,6 +375,7 @@
                             <label for="service-type" class="form-label">Service required</label>
                             <select id="service-type" class="form-select" name="service-type" required>
                                 <option selected>Select</option>
+                                <option value="quotation">Get a free quote</option>
                                 <option value="general-enquiry">General enquiry</option>
                                 <option value="tree-surgery">Tree management</option>
                                 <option value="hedgecutting">Hedgecutting</option>

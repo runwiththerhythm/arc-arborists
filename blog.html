@@ -17,17 +17,18 @@
 </head>
 
 <body class="d-flex flex-column min-vh-100">
-  <!-- nav new -->
+  <!-- Navigation -->
   <nav id="navbar" class="navbar navbar-expand-lg ">
-    <div class="container-fluid justify-content-between">
-      <a class="navbar-brand" href="index.html">
+    <div class="container-fluid justify-content-between align-items-center">
+      <a class="navbar-brand d-flex align-items-center"" href="index.html">
         <img
-              src="assets/images/arc-arborists-logo1.svg"
+              src="assets/images/tree-logo.svg"
               alt="Arc Arborists company logo"
-              class="logo"
-            /><h3>Arc Arborists</h3>
+              class="logo me-4 mb-2"
+            />
+          <h2 class="m-0">Arc Arborists</h2>
       </a>
-      <span class="navbar-text ms-2 d-flex align-items-center""><a  href="tel:01234 567890">
+      <span class="navbar-text ms-4 d-flex align-items-center"><a  href="tel:01234 567890">
         <img
               src="assets/images/phone-call.svg"
               alt="phone"
@@ -38,9 +39,9 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-        <ul class="navbar-nav">
+        <ul class="navbar-nav align-items-center">
           <li class="nav-item">
-            <a class="nav-link" href="index.html">Home</a>
+            <a class="nav-link active" aria-current="page" href="#">Home</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#services" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -62,10 +63,10 @@
             <a class="nav-link" href="#contact">Contact</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="blog.html">Blog</a>
+            <a class="nav-link" href="blog.html">Blog</a>
           </li>
           <li class="nav-item">
-            <a class="btn custom-button-alt ms-lg-3" href="quote.html"
+            <a class="btn custom-button-alt ms-lg-3" href="index.html#contact"
               >Get a quote</a>
           </li>
         </ul>
@@ -100,6 +101,7 @@
                               <label for="service-type" class="form-label">Service required</label>
                               <select id="service-type" class="form-select" name="service-type" required>
                                   <option selected>Select</option>
+                                  <option value="quotation">Get a free quote</option>
                                   <option value="general-enquiry">General enquiry</option>
                                   <option value="tree-surgery">Tree management</option>
                                   <option value="hedgecutting">Hedgecutting</option>
