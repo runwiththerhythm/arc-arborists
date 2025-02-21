@@ -80,24 +80,32 @@ h6 {
     border: 2px solid var(--secondary-color);
     background-color: var(--secondary-color);
     color: var(--highlight-color-light);
+    font-family: var(--secondary-font)!important;
 }
 
 .custom-button-filled:hover {
     border: 2px solid var(--secondary-color);
     background-color: var(--highlight-color-light);
     color: (--secondary-color);
+    font-family: var(--secondary-font)!important;
+
 }
 
 .custom-button-alt {
     border: 2px solid var(--primary-color);
     background-color: var(--primary-color);
     color: var(--highlight-color-light);
+    font-family: var(--secondary-font)!important;
+    font-size:larger;
+
 }
 
 .custom-button-alt:hover {
     border: 2px solid var(--secondary-color);
     background-color: var(--highlight-color-light);
     color: (--secondary-color);
+    font-family: var(--secondary-font)!important;
+
 }
 
 .custom-button-outline {
