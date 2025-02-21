@@ -40,86 +40,72 @@ use a table of contents generator to generate this when complete
   - As the Business Owner, I want to prominently display information about our emergency 24/7 service with out of hours contact details.
   - As the Business Owner, I want to feature a Careers page to attract new employees.
 
+## Design
 
 ### Wireframes
 ![Sitemap wireframe](assets/images/sitemap-wireframe.png)
-![Responsive layouts wireframes](assets/images/arc-arborists-wireframes.png.png)
+![Responsive layouts wireframes](assets/images/arc-arborists-wireframes.png)
 
-## Design
+### Colour scheme
+![Colour Scheme](assets/images/arc-arborists-colours.png)
+Shades of green and light and dark brown, chosen to reflect the leaves, wood and bark of trees and to provide contrast between the colours.
+### Typography
 
-### Color scheme
-
-### Typeography 
+- __New Amsterdam__
+  - A bold and commanding uppercase font used for headings and buttons.
+- __Lora__
+  - A modern serif font with great readability and an organic feel that balances the heading font. Used throughout the main body.
 
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-### Existing Features
-
 - __Navigation Bar__
 
-  - Featured on all pages, the fully responsive navigation bar includes links to the Logo, Phone number, Home page, About page, Gallery section, Contact section, Blog and a CTA button that triggers an equiry form modal. The navigation is identical on each page to allow for easy navigation and consistency.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
-
+  - Found on all pages, the fully responsive navigation bar features the companies logo and name which links to the Home page. Their phone number, which is a clickable link to call them.
+  - The main navigation features links to the Home page, a dropdown menu links to the Services pages, and more links to the About page, Gallery section, Contact section, Blog and a CTA button that takes you straight to the contact form.
+  - The navbar is identical on each page to allow for easy navigation and consistency across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 
 - __Hero Section__
 
-  - The hero section includes a carousel of high quality images and impactful and consise headline and sub-headline.
+  - The Hero section includes a carousel of high quality images and an impactful and concise headline and sub-headline that describes the business and what they provide.
   - This section introduces the user to Arc Arborists with an eye catching animation to grab their attention.
+  - Two CTA buttons allow the use to quickly access the contact form for a quote and emergency assistance.
 
 
-- __Cards__
+- __Services Cards__
 
-  - Larger cards to showcase main services with images and links
-  - This user will see the value of 
-
-
-- __Service cards__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-
-
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-
+  - Three large 'Services' cards with high quality images, representative icons, and SEO keyword rich descriptions of the businesses main services.
+  - This user will see the value of ........???????
+  - Smaller 'Services' cards with visually descriptive icons and SEO keyword rich titles of more of the businesses services.
+  - This user will see the value of ........????????
 
 - __Testimonials__
 
-  - The testimonials section will display reviews from previous customers.
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The 'Testimonials' will provide the user with reviews of the company and supporting statements from previous clients.
+  - This section is valuable to the user as they will be able to see evidence of satisfied previous clients giving them a sense of reassurance when deciding to hire the company.
+ 
+- __Gallery__
 
+  - The 'Gallery' section displays a masonry carousel of high quality images of the businesses work and services and the team in action. 
+  - This section is valuable to the user as they will be able to see evidence of the team working and work they have carried out in the past, again reassuring the user and giving good promotion to the business. 
 
 
 
 - __Contact Form__
 
-  - This section will allow the user to contact the company. The user will be asked to submit their name and email address. 
+  - This section allows the user to contact the company. The user is asked to submit their name, email address, phone number and message. 
+  -To provide the most information to the business about the user request, all fields are required and there is a dropdown menu to select the service required.
 
 
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Arc Arborists. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section includes links to the relevant social media sites for Arc Arborists. The links will open to a new tab to allow easy navigation for the user and so as not to lose them from our site. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media and provides navigation.
 
 
-
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-
-- Another feature idea
 
 ## Technologies used
 

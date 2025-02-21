@@ -2,7 +2,7 @@
 
 /* CSS Variables */
 :root {
-    --primary-font: "Lora", sans-serif;
+    --primary-font: "Lora", serif;
     --secondary-font: "New Amsterdam", sans-serif;
     --primary-color: #00832D; /* forest green */
     --secondary-color: #4E382D; /* brown */
