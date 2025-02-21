@@ -86,7 +86,7 @@ h6 {
 .custom-button-filled:hover {
     border: 2px solid var(--secondary-color);
     background-color: var(--highlight-color-light);
-    color: (--secondary-color);
+    color: var(--secondary-color);
     font-family: var(--secondary-font)!important;
 
 }
@@ -103,7 +103,7 @@ h6 {
 .custom-button-alt:hover {
     border: 2px solid var(--secondary-color);
     background-color: var(--highlight-color-light);
-    color: (--secondary-color);
+    color: var(--secondary-color);
     font-family: var(--secondary-font)!important;
 
 }
