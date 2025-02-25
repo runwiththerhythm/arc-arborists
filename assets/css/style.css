@@ -286,6 +286,10 @@ h6 {
     }
   }
 
+  /* About Page */
+  .team-members img {
+    width: 150px
+  }
 /* Footer */
 
 #footer {
