@@ -63,7 +63,7 @@ In this section, you should go over the different parts of your project, and des
 - __Navigation Bar__
 
   - Found on all pages, the fully responsive navigation bar features the companies logo and name which links to the Home page. Their phone number, which is a clickable link to call them.
-  - The main navigation features links to the Home page, a dropdown menu links to the Services pages, and more links to the About page, Gallery section, Contact section, Blog and a CTA button that takes you straight to the contact form.
+  - The main navigation menu features links to the Home page, a dropdown menu links to sections of the Services page, also links to the About page, Gallery section, Contact section, Blog and a CTA button that takes you straight to the contact form.
   - The navbar is identical on each page to allow for easy navigation and consistency across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 
@@ -71,7 +71,7 @@ In this section, you should go over the different parts of your project, and des
 
   - The Hero section includes a carousel of high quality images and an impactful and concise headline and sub-headline that describes the business and what they provide.
   - This section introduces the user to Arc Arborists with an eye catching animation to grab their attention.
-  - Two CTA buttons allow the use to quickly access the contact form for a quote and emergency assistance.
+  - Two CTA buttons allow the use to quickly access the Contact form for a quote and emergency assistance.
 
 
 - __Services Cards__
