@@ -3,6 +3,7 @@
 - Arc Arborists is a business website for a fictional arboricultural company called 'Arc Arborists'.
 - The website aims to promote the services of the business and generate leads for them. 
 - It displays all relevant information about the business, highlights their expertise and experience and showcases them to potential customers.
+- The target audience is potential customers who are looking to get arboricultural services and they will benefit from the website by being able to find out more about the company and the services they offer, as well as find reassurance why to hire them from evidence of previous work.
 
 ## Live project
 [View the live project here.](https://runwiththerhythm.github.io/arc-arborists/)
@@ -56,22 +57,27 @@ Shades of green and light and dark brown, chosen to reflect the leaves, wood and
 - __Lora__
   - A modern serif font with great readability and an organic feel that balances the heading font. Used throughout the main body.
 
-## Features 
+## Pages and Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+
+### Global Header
 
 - __Navigation Bar__
 
   - Found on all pages, the fully responsive navigation bar features the companies logo and name which links to the Home page. Their phone number, which is a clickable link to call them.
+  - The first thing the user sees is a logo of a tree letting them know immediately the kind of business they are viewing.
   - The main navigation menu features links to the Home page, a dropdown menu links to sections of the Services page, also links to the About page, Gallery section, Contact section, Blog and a CTA button that takes you straight to the contact form.
   - The navbar is identical on each page to allow for easy navigation and consistency across all devices without having to revert back to the previous page via the ‘back’ button. 
+![Navigation](assets/images/navigation.png)
 
+### Home Page
 
 - __Hero Section__
 
   - The Hero section includes a carousel of high quality images and an impactful and concise headline and sub-headline that describes the business and what they provide.
   - This section introduces the user to Arc Arborists with an eye catching animation to grab their attention.
-  - Two CTA buttons allow the use to quickly access the Contact form for a quote and emergency assistance.
+  - Two CTA buttons allow the use to quickly access the Contact form for a quote and emergency assistance saving them time for the most common and important actions.
 
 
 - __Services Cards__
@@ -84,28 +90,61 @@ In this section, you should go over the different parts of your project, and des
 - __Testimonials__
 
   - The 'Testimonials' will provide the user with reviews of the company and supporting statements from previous clients.
-  - This section is valuable to the user as they will be able to see evidence of satisfied previous clients giving them a sense of reassurance when deciding to hire the company.
+  - This section is valuable to the user as they will be able to see evidence of previous satisfied clients giving them a sense of reassurance when deciding to hire the company.
  
 - __Gallery__
 
   - The 'Gallery' section displays a masonry carousel of high quality images of the businesses work and services and the team in action. 
   - This section is valuable to the user as they will be able to see evidence of the team working and work they have carried out in the past, again reassuring the user and giving good promotion to the business. 
+![Gallery](assets/images/gallery.png)
 
-
+### Global Footer
 
 - __Contact Form__
 
   - This section allows the user to contact the company. The user is asked to submit their name, email address, phone number and message. 
   -To provide the most information to the business about the user request, all fields are required and there is a dropdown menu to select the service required.
+![Contact](assets/images/contact-form.png)
 
-
-
-- __The Footer__ 
+- __Footer__ 
 
   - The footer section includes links to the relevant social media sites for Arc Arborists. The links will open to a new tab to allow easy navigation for the user and so as not to lose them from our site. 
   - The footer is valuable to the user as it encourages them to keep connected via social media and provides navigation.
+![Footer](assets/images/footer.png)
 
 
+### Services Page
+
+  - The Services page further details the main services offered by the company in an informative and SEO keyword rich manner. There are high quality images for each section, a brief description and list of relevant services.
+  - Each section is linked to from the Home page and Navigation
+
+### About Page
+
+- __Introduction__
+
+  - A brief description about the company to introduce the business.
+  - This lets potential customers know more about the business and their values.
+
+- __Meet our Team__
+
+  - The Team section introduces the main team members of the business.
+  - It features a circular photograph, name, role and description for each member.
+  - This allows visitors to connect with the business on a more personal level and builds trust and reassurance.
+![Team](assets/images/team.png)
+
+
+- __Recruitment__
+
+  - This sections links to the Careers page.
+  - As well as providing value to potential employees it helps SEO as an internal link.
+
+### Blog Page
+
+WORK IN PROGRESS
+
+### Careers Page
+
+WORK IN PROGRESS
 
 ## Technologies used
 
@@ -159,15 +198,10 @@ The live link can be found here - https://runwiththerhythm.github.io/arc-arboris
 ### Content 
 
 - Some content has been created with the assistance of AI.
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from 
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
-- Stock images are from [Canva](https://canva.com/) and
-<a href="https://unsplash.com/photos/man-cutting-brown-tree-during-daytime-_b9mXKt0fc4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Stock images are from [Canva](https://canva.com/) and <a href="https://unsplash.com/photos/man-cutting-brown-tree-during-daytime-_b9mXKt0fc4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
 
 ### Icons
