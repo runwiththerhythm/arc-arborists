@@ -365,6 +365,9 @@ h6 {
 #emergency-number a {
     color: red;
 }
+.card-image-top {
+    max-height: 357px;
+}
 
 /* Footer */
 
