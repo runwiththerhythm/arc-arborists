@@ -76,7 +76,7 @@ In this section, you should go over the different parts of your project, and des
 - __Hero Section__
 
   - The Hero section includes a carousel of high quality images and an impactful and concise headline and sub-headline that describes the business and what they provide.
-  - This section introduces the user to Arc Arborists with an eye catching animation to grab their attention.
+  - This section introduces the user to Arc Arborists with an eye catching animation to grab their attention and the ability to interact with the carousel to view through the photos.
   - Two CTA buttons allow the use to quickly access the Contact form for a quote and emergency assistance saving them time for the most common and important actions.
 
 
@@ -110,7 +110,8 @@ In this section, you should go over the different parts of your project, and des
 - __Footer__ 
 
   - The footer section includes links to the relevant social media sites for Arc Arborists. The links will open in a new tab to allow easy navigation for the user and so as not to lose them from our site. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media and provides navigation.
+  - The text has a drop shadow outline to ensure it can be seen clearly even when the background colour changes across different devices and screen sizes.
+  - The footer is valuable to the user as it encourages them to keep connected via social media and provides navigation and business information.
 ![Footer](assets/images/footer.png)
 
 

@@ -73,7 +73,7 @@ h6 {
 /* Small screens (mobile) */
 @media (max-width: 768px) {
     h1 {
-        font-size: 2.5rem;
+        font-size: 3.5rem;
     }
     h2 {
         font-size: 3rem;
@@ -92,7 +92,7 @@ h6 {
 /* Extra small screens (small mobile devices) */
 @media (max-width: 576px) {
     h1 {
-        font-size: 2rem;
+        font-size: 3rem;
     }
     h2 {
         font-size: 2.5rem;
