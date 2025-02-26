@@ -80,12 +80,13 @@ In this section, you should go over the different parts of your project, and des
   - Two CTA buttons allow the use to quickly access the Contact form for a quote and emergency assistance saving them time for the most common and important actions.
 
 
-- __Services Cards__
+- __Our Services__
 
-  - Three large 'Services' cards with high quality images, representative icons, and SEO keyword rich descriptions of the businesses main services.
-  - This user will see the value of ........???????
+  - The 'Our Services' title is visible in the above-the-fold section to entice the user to scroll down and let them know there is more information to view below.
+  - Three large 'Services' cards with high quality images, representative icons, and SEO keyword rich descriptions of the businesses key services.
+  - This will allow the user to clearly get an idea of the main types of services offered by the business.
   - Smaller 'Services' cards with visually descriptive icons and SEO keyword rich titles of more of the businesses services.
-  - This user will see the value of ........????????
+  - This gives the user more information on other services the business offers and eye catching icons help visually inform of the service.
 
 - __Testimonials__
 
@@ -103,12 +104,12 @@ In this section, you should go over the different parts of your project, and des
 - __Contact Form__
 
   - This section allows the user to contact the company. The user is asked to submit their name, email address, phone number and message. 
-  -To provide the most information to the business about the user request, all fields are required and there is a dropdown menu to select the service required.
+  - To provide the most information to the business about the user request, all fields are required and there is a dropdown menu to select the service required.
 ![Contact](assets/images/contact-form.png)
 
 - __Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Arc Arborists. The links will open to a new tab to allow easy navigation for the user and so as not to lose them from our site. 
+  - The footer section includes links to the relevant social media sites for Arc Arborists. The links will open in a new tab to allow easy navigation for the user and so as not to lose them from our site. 
   - The footer is valuable to the user as it encourages them to keep connected via social media and provides navigation.
 ![Footer](assets/images/footer.png)
 
@@ -167,8 +168,8 @@ You should also mention in this section any interesting bugs or problems you dis
 
 When testing my project using lighthouse I found the following issues and improved the improve the site.
 
-    - Images were too large and this was impacting loading times. To fix this I resized the images and improved the load time.
-    - ........????????? anything else?
+ - Images were too large and this was impacting loading times. To fix this I resized the images and improved the load time.
+ - ........????????? anything else?
 
 
 
