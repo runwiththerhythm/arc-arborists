@@ -119,6 +119,7 @@ In this section, you should go over the different parts of your project, and des
 
   - The Services page further details the main services offered by the company in an informative and SEO keyword rich manner. There are high quality images for each section, a brief description and list of relevant services.
   - Each section is linked to from the Home page and Navigation
+  - Emergency out of hours contact details are styled bold and bright red for the user to easily spot in an urgent and time sensitive situation.
 
 ### About Page
 
