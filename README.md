@@ -170,10 +170,35 @@ You should also mention in this section any interesting bugs or problems you dis
 
 When testing my project using lighthouse I found the following issues and improved the improve the site.
 
- - Images were too large and this was impacting loading times. To fix this I resized the images and improved the load time.
- - ........????????? anything else?
+- Images were too large and this was impacting loading times. To fix this I resized the images and improved the load time.
+- ........????????? anything else?
 
-
+| Feature                                 | Test Case                                      | Outcome                                                         |
+| --------------------------------------- | ---------------------------------------------- | --------------------------------------------------------------- |
+| Logo                                    | Click the logo                                 | User is taken to the Home page                                  |
+| Navbar \| Home page                     | Click 'Home' link on each page                 | User is taken to the Home page                                  |
+| Navbar \| Services links                | Click 'Services' menu links on each page       | User is taken to the corresponding pages                        |
+| Navbar \| About                         | Click 'About' link on each page                | User is taken to the 'About' page                               |
+| Navbar \| Gallery                       | Click 'Gallery' link on each page              | User is taken to the gallery section on the Home page           |
+| Navbar \| Contact                       | Click 'Contact' link on each page              | User is taken to the Contact form                               |
+| Navbar \| Blog                          | Click 'Blog' link on each page                 | Use is taken to the 'Blog' page                                 |
+| Navbar \| Quote CTA                     | Click the 'Get a quote' CTA on each page       | User is taken to the Contact form                               |
+| Hero Buttons \| Quote                   | Click on the 'Get a free quotation now' button | User is taken to the Contact form                               |
+| Hero Buttons \| Emergency               | Click on the 'Emergency tree care..' button    | User is taken to Emergency tree care section on 'Services' page |
+| Our Services \| Tree Surgery            | Click the 'Learn more' button                  | User is taken to Tree Surgery section on 'Services' page        |
+| Our Services \| Tree Surveys            | Click the 'Learn more' button                  | User is taken to Tree Survey section on 'Services' page         |
+| Our Services \| Emergency Tree Services | Click the 'Learn more' button                  | User is taken to Emergency Tree Care section on 'Services' page |
+|                                         |                                                |                                                                 |
+|                                         |                                                |                                                                 |
+|                                         |                                                |                                                                 |
+|                                         |                                                |                                                                 |
+|                                         |                                                |                                                                 |
+| Contact Form                            | Submit an empty form                           | Error for required field to be filled out                       |
+| Contact Form \| Name                    | Submit with empty field                        | Error for required field to be filled out                       |
+| Contact Form \| Email                   | Submit text string without @                   |                                                                 |
+| Contact Form \| Phone number            | Submit text string without numbers             |                                                                 |
+| Contact Form \| Service required        |                                                |                                                                 |
+| Contact Form \| Message                 |                                                |                                                                 |
 
 ### Validator Testing 
 

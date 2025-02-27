@@ -7,7 +7,7 @@
     --primary-color: #00832D; /* forest green */
     --secondary-color: #4E382D; /* brown */
     --highlight-color: #333333; /* charcoal grey */
-    --highlight-color-light: #EBDAC2; /* pigment green */
+    --highlight-color-light: #EBDAC2; /* champagne */
     --bs-table-bg:#4e382d;
 }
 
@@ -250,7 +250,6 @@ h6 {
     background-color: var(--secondary-color); /* Desired hover background color */
     color: var(--highlight-color-light); /* Optional: text color on hover */
 }
-
 
 /* Services */
 #services {
