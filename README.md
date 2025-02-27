@@ -41,15 +41,71 @@ to be added when complete
   - As the Business Owner, I want to prominently display information about our emergency 24/7 service with out of hours contact details.
   - As the Business Owner, I want to feature a Careers page to attract new employees.
 
-## Design
+### The 5 Planes of UX
 
-### Wireframes
+#### 1. Strategy Plane
+##### Purpose
+- Promote the business and the services they offer.
+- Generate new leads for the business.
+- Provide a seamless user experience to allow the customer to intuitively navigate around the website and get know the business.
+
+##### Primary User Needs
+- Learn about the business and the services they provide.
+- Be reassured the business is authentic and reputable.
+- Contact the business easily and quickly.
+
+##### Business Goals
+- Generate new customers.
+- Display experience, expertise and services offered.
+- Have a fully responsive, professional looking website.
+- Encourage potential new employees to get in touch.
+
+#### 2. Scope Plane
+##### Features
+- A full list of [Features](#features) can be viewed in detail below.
+
+##### Content Requirements
+- Clearly display services offered.
+- Emergency contact details / service.
+- Contact form with selection of enquires.
+- Forms for membership sign-up.
+- High quality images of previous work.
+- Careers page to attract new employees.
+
+#### 3. Structure Plane
+##### Information Architecture
+- **Navigation Menu**:
+  - Company logo
+  - Phone number
+  - Accessible links in the navbar.
+- **Hierarchy**:
+  - Eye catching Hero section
+  - Clear call-to-action buttons.
+  - Services section first as most important
+  - Gallery of past work
+  - Contact form above the footer
+  - Quick links and contact info in footer
+  - Prominent placement of social media links in the footer.
+
+##### User Flow
+1. User lands on the home page and meets the business.
+2. Can select links from navigation or CTA hero buttons.
+3. Scrolls further down the page to learn more about the business.
+4. Contacts the business using the contact form.
+5. Uses navigation links in footer to be taken to another page.
+6. Scrolling the page always ends up at the contact form.
+
+#### 4. Skeleton Plane
+##### Wireframes
 ![Sitemap wireframe](documentation/wireframes/sitemap-wireframe.png)
 ![Responsive layouts wireframes](documentation/wireframes/arc-arborists-wireframes.png)
 
+#### 5. Surface Plane
+##### Visual Design Elements
 ### Colour scheme
 ![Colour Scheme](assets/images/arc-arborists-colours.png)
 Shades of green and light and dark brown, chosen to reflect the leaves, wood and bark of trees and to provide contrast between the colours.
+
 ### Typography
 
 - __New Amsterdam__
