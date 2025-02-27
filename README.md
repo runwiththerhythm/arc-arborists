@@ -44,8 +44,8 @@ use a table of contents generator to generate this when complete
 ## Design
 
 ### Wireframes
-![Sitemap wireframe](assets/images/sitemap-wireframe.png)
-![Responsive layouts wireframes](assets/images/arc-arborists-wireframes.png)
+![Sitemap wireframe](documentation/wireframes/sitemap-wireframe.png)
+![Responsive layouts wireframes](documentation/wireframes/arc-arborists-wireframes.png)
 
 ### Colour scheme
 ![Colour Scheme](assets/images/arc-arborists-colours.png)
@@ -69,7 +69,7 @@ In this section, you should go over the different parts of your project, and des
   - The first thing the user sees is a logo of a tree letting them know immediately the kind of business they are viewing.
   - The main navigation menu features links to the Home page, a dropdown menu links to sections of the Services page, also links to the About page, Gallery section, Contact section, Blog and a CTA button that takes you straight to the contact form.
   - The navbar is identical on each page to allow for easy navigation and consistency across all devices without having to revert back to the previous page via the ‘back’ button. 
-![Navigation](assets/images/navigation.png)
+![Navigation](documentation/features/navigation.png)
 
 ### Home Page
 
@@ -97,7 +97,7 @@ In this section, you should go over the different parts of your project, and des
 
   - The 'Gallery' section displays a masonry carousel of high quality images of the businesses work and services and the team in action. 
   - This section is valuable to the user as they will be able to see evidence of the team working and work they have carried out in the past, again reassuring the user and giving good promotion to the business. 
-![Gallery](assets/images/gallery.png)
+![Gallery](documentation/features/gallery.png)
 
 ### Global Footer
 
@@ -105,14 +105,14 @@ In this section, you should go over the different parts of your project, and des
 
   - This section allows the user to contact the company. The user is asked to submit their name, email address, phone number and message. 
   - To provide the most information to the business about the user request, all fields are required and there is a dropdown menu to select the service required.
-![Contact](assets/images/contact-form.png)
+![Contact](documentation/features/contact-form.png)
 
 - __Footer__ 
 
   - The footer section includes links to the relevant social media sites for Arc Arborists. The links will open in a new tab to allow easy navigation for the user and so as not to lose them from our site. 
   - The text has a drop shadow outline to ensure it can be seen clearly even when the background colour changes across different devices and screen sizes.
   - The footer is valuable to the user as it encourages them to keep connected via social media and provides navigation and business information.
-![Footer](assets/images/footer.png)
+![Footer](documentation/features/footer.png)
 
 
 ### Services Page
@@ -133,7 +133,7 @@ In this section, you should go over the different parts of your project, and des
   - The Team section introduces the main team members of the business.
   - It features a circular photograph, name, role and description for each member.
   - This allows visitors to connect with the business on a more personal level and builds trust and reassurance.
-![Team](assets/images/team.png)
+![Team](documentation/features/team.png)
 
 
 - __Recruitment__
