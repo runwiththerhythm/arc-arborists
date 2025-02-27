@@ -367,6 +367,11 @@ h6 {
     }
   }
 
+  /* Testimonials styling */
+  .bi-quote {
+    font-size: xxx-large;
+  }
+
   /* About Page */
 
   #certification {
@@ -431,7 +436,7 @@ a {
     font-size: xx-large;
 }
 
-#footer h3, .nav-link, address, i {
+#footer h3, .nav-link, address, #footer i {
     text-shadow: -3px -3px 3px var(--secondary-color), 
     3px -3px 3px var(--secondary-color), 
     -3px 3px 3px var(--secondary-color), 
