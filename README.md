@@ -274,13 +274,49 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 
 ## Deployment
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the 'Settings' tab 
-  - In the Settings page select 'Pages' from the menu
-  - Options should be set to; Source - Deploy from a branch, Branch - main, root.
-  - Click Save.
+### GitHub Pages
 
-The live link can be found here - https://runwiththerhythm.github.io/arc-arborists/
+The site was deployed to GitHub Pages.
+The live link can be found on [GitHub Pages](https://runwiththerhythm.github.io/arc-arborists).
+The steps to deploy are as follows:
+
+- In the [GitHub repository](https://www.github.com/runwiththerhythm/arc-arborists), navigate to the "Settings" tab.
+- In Settings, click on the "Pages" link from the menu on the left.
+- From the "Build and deployment" section, click the drop-down called "Branch", and select the **main** branch, then click "Save".
+- The page will be automatically refreshed with a detailed message display to indicate the successful deployment.
+- Allow up to 5 minutes for the site to fully deploy.
+
+
+### Local Development
+
+This project can be cloned or forked in order to make a local copy on your own system.
+
+#### Cloning
+
+You can clone the repository by following these steps:
+
+1. Go to the [GitHub repository](https://www.github.com/runwiththerhythm/arc-arborists).
+2. Locate and click on the green "Code" button at the very top, above the commits and files.
+3. Select whether you prefer to clone using "HTTPS", "SSH", or "GitHub CLI", and click the "copy" button to copy the URL to your clipboard.
+4. Open "Git Bash" or "Terminal".
+5. Change the current working directory to the location where you want the cloned directory.
+6. In your IDE Terminal, type the following command to clone the repository:
+	- `git clone https://www.github.com/runwiththerhythm/arc-arborists.git`
+7. Press "Enter" to create your local clone.
+
+#### Forking
+
+By forking the GitHub Repository, you make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository. You can fork this repository by using the following steps:
+
+1. Log in to GitHub and locate the [GitHub Repository](https://www.github.com/runwiththerhythm/arc-arborists).
+2. At the top of the Repository, just below the "Settings" button on the menu, locate and click the "Fork" Button.
+3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
+
+### Local VS Deployment
+
+Use this space to discuss any differences between the local version you've developed, and the live deployment site. Generally, there shouldn't be [m]any major differences, so if you honestly cannot find any differences, feel free to use the following example:
+
+There are no remaining major differences between the local version when compared to the deployed version online.
 
 ## Acknowledgements  
 
