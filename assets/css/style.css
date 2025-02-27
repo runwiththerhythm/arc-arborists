@@ -368,6 +368,10 @@ h6 {
   }
 
   /* About Page */
+
+  #certification {
+    max-width: 400px;
+}
   .team-members img {
     width: 150px
   }
@@ -382,6 +386,8 @@ h6 {
 .card-image-top {
     max-height: 357px;
 }
+
+
 
 /* Footer */
 
