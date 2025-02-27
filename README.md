@@ -17,30 +17,6 @@ to be added when complete
 
 ## User experience
 
-### User stories
-
-- #### New Visitor
-  - As a first time visitor, I need easy navigation and a user-friendly design, including a responsive layout for my device, so I can find information quickly and efficiently without frustration.
-  - As a first time visitor, I want to easily understand the main purpose of the website and learn about the arborist services offered.
-  - As a first time visitor, I want to be able to navigate easily through the site to find the services offered and contact information.
-  - As a first time visitor, I want to read testimonials from previous clients to see if the business is trustworthy and reliable.
-  - As a first time visitor, I want to locate the businesses certifications and qualifications to ensure they are licensed professionals and operate safely.
-
-
-
-- #### Repeat Visitor
-  - As a Returning Visitor, I want to find the contact details quickly so I can request a quote or schedule a consultation.
-  - As a Returning Visitor, I want to find out more information about the company to see if they are a suitable fit for my purpose.
-  - As a Returning Visitor, I want to see examples of completed projects, such as tree removals, pruning, or other arborist work, to help me decide on hiring them.
-
-
-- #### Business Owner
-  - As the Business Owner, I want the website to clearly showcase my expertise and certifications to build trust with potential clients.
-  - As the Business Owner, I want to feature a blog or resource section to establish authority in the industry and drive more traffic to the site via SEO.
-  - As the Business Owner, I want the website to generate leads by including strong calls-to-action, such as 'Get a Free Quote' or 'Schedule a Consultation'.
-  - As the Business Owner, I want to prominently display information about our emergency 24/7 service with out of hours contact details.
-  - As the Business Owner, I want to feature a Careers page to attract new employees.
-
 ### The 5 Planes of UX
 
 #### 1. Strategy Plane
@@ -97,21 +73,46 @@ to be added when complete
 
 #### 4. Skeleton Plane
 ##### Wireframes
-![Sitemap wireframe](documentation/wireframes/sitemap-wireframe.png)
-![Responsive layouts wireframes](documentation/wireframes/arc-arborists-wireframes.png)
+ - Sitemap![Sitemap wireframe](documentation/wireframes/sitemap-wireframe.png)
+ - To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.![Responsive layouts wireframes](documentation/wireframes/arc-arborists-wireframes.png)
 
 #### 5. Surface Plane
 ##### Visual Design Elements
 ### Colour scheme
-![Colour Scheme](assets/images/arc-arborists-colours.png)
+![Colour Scheme](documentation/coolors.png)
 Shades of green and light and dark brown, chosen to reflect the leaves, wood and bark of trees and to provide contrast between the colours.
 
 ### Typography
 
-- __New Amsterdam__
-  - A bold and commanding uppercase font used for headings and buttons.
-- __Lora__
+- [New Amsterdam](https://fonts.google.com/specimen/New+Amsterdam)
+  - A bold and commanding, sans-serif, uppercase font used for headings and buttons.
+- [Lora](https://fonts.google.com/specimen/Lora)
   - A modern serif font with great readability and an organic feel that balances the heading font. Used throughout the main body.
+- [Font Awesome](https://fontawesome.com/icons)
+  - Font Awesome icons are used in the footer for social media links.
+
+### User stories
+
+- #### New Visitor
+  - As a first time visitor, I need easy navigation and a user-friendly design, including a responsive layout for my device, so I can find information quickly and efficiently without frustration.
+  - As a first time visitor, I want to easily understand the main purpose of the website and learn about the arborist services offered.
+  - As a first time visitor, I want to be able to navigate easily through the site to find the services offered and contact information.
+  - As a first time visitor, I want to read testimonials from previous clients to see if the business is trustworthy and reliable.
+  - As a first time visitor, I want to locate the businesses certifications and qualifications to ensure they are licensed professionals and operate safely.
+
+
+- #### Repeat Visitor
+  - As a Returning Visitor, I want to find the contact details quickly so I can request a quote or schedule a consultation.
+  - As a Returning Visitor, I want to find out more information about the company to see if they are a suitable fit for my purpose.
+  - As a Returning Visitor, I want to see examples of completed projects, such as tree removals, pruning, or other arborist work, to help me decide on hiring them.
+
+
+- #### Business Owner
+  - As the Business Owner, I want the website to clearly showcase my expertise and certifications to build trust with potential clients.
+  - As the Business Owner, I want to feature a blog or resource section to establish authority in the industry and drive more traffic to the site via SEO.
+  - As the Business Owner, I want the website to generate leads by including strong calls-to-action, such as 'Get a Free Quote' or 'Schedule a Consultation'.
+  - As the Business Owner, I want to prominently display information about our emergency 24/7 service with out of hours contact details.
+  - As the Business Owner, I want to feature a Careers page to attract new employees.
 
 ## Pages and Features 
 
@@ -205,6 +206,10 @@ WORK IN PROGRESS
 
 WORK IN PROGRESS
 
+### Future Features
+
+WORK IN PROGRESS
+
 ## Technologies used
 
 ### Languages
@@ -294,3 +299,7 @@ The live link can be found here - https://runwiththerhythm.github.io/arc-arboris
 - Created by [juicy_fish](https://www.flaticon.com/authors/juicy-fish/), [Freepik](https://www.flaticon.com/authors/freepik), [Backwoods](https://www.flaticon.com/authors/backwoods),
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - Custom created SVGs
+
+I used [coolors.co](https://coolors.co/16a34a-00832d-166534-ebdac2-4e382d) to generate my color palette.
+
+I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
