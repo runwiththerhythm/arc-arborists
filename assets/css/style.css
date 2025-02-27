@@ -363,7 +363,7 @@ h6 {
       transform: translateX(0);
     }
     to {
-      transform: translateX(-100%); /* Ensure the scroll is across the entire container */
+      transform: translateX(-50%); /* Ensure the scroll is across the entire container */
     }
   }
 
