@@ -206,11 +206,23 @@ h6 {
     color: var(--highlight-color-light);
 }
 
+/* Navbar logo size */
 #navbar .logo {
     width: 100px;
 
 }
 
+/* Change navbar toggler border */
+.navbar-toggler {
+    border-color: var(--highlight-color-light) !important;
+}
+
+/* Change navbar toggler color */
+.navbar-toggler-icon {
+    filter: brightness(0) saturate(100%) invert(91%) sepia(15%) saturate(200%) hue-rotate(180deg);
+}
+
+    /* Navbar text styling */
 .navbar-text img {
     width: 30px
 }
@@ -236,6 +248,7 @@ h6 {
 
 }
 
+/* Navbar dropdown styling */
 .dropdown-item {
     color: var(--primary-color);
     background-color: var(--secondary-color);
@@ -250,6 +263,8 @@ h6 {
     background-color: var(--secondary-color); /* Desired hover background color */
     color: var(--highlight-color-light); /* Optional: text color on hover */
 }
+
+
 
 /* Services */
 #services {
