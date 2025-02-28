@@ -276,7 +276,7 @@ h6 {
 
 
 
-/* Services */
+/* Services section */
 #services {
     background-color: var(--secondary-color);
 }
@@ -413,6 +413,10 @@ h6 {
 }
 .card-image-top {
     max-height: 357px;
+}
+
+#services-page h2 {
+    color: var(--primary-color-dark);
 }
 
 /* Careers Page */
