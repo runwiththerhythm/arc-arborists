@@ -171,14 +171,13 @@ Shades of green and light and dark brown, chosen to reflect the leaves, wood and
   - This section allows the user to contact the company. The user is asked to submit their name, email address, phone number and message. 
   - To provide the most information to the business about the user request, all fields are required and there is a dropdown menu to select the service required.
 
-![Contact](documentation/features/contact-form.png)
-
 - __Footer__ 
 
   - The footer section includes links to the relevant social media sites for Arc Arborists. The links will open in a new tab to allow easy navigation for the user and so as not to lose them from our site. 
   - The text has a drop shadow outline to ensure it can be seen clearly even when the background colour changes across different devices and screen sizes.
   - The footer is valuable to the user as it encourages them to keep connected via social media and provides navigation and business information.
-![Footer](documentation/features/footer.png)
+
+![Footer](documentation/features/footer-full.png)
 
 
 ### Services Page
@@ -186,6 +185,9 @@ Shades of green and light and dark brown, chosen to reflect the leaves, wood and
   - The Services page further details the main services offered by the company in an informative and SEO keyword rich manner. There are high quality images for each section, a brief description and list of relevant services.
   - Each section is linked to from the Home page and Navigation
   - Emergency out of hours contact details are styled bold and bright red for the user to easily spot in an urgent and time sensitive situation.
+
+![Services](documentation/features/services-page.png)
+
 
 ### About Page
 

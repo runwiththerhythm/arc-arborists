@@ -278,8 +278,6 @@ h6 {
     color: var(--highlight-color-light); /* Optional: text color on hover */
 }
 
-
-
 /* Services section */
 #services {
     background-color: var(--secondary-color);
@@ -310,6 +308,7 @@ h6 {
   }
 
 /* Gallery section */
+/* The code for this Gallery section is from a tutorial created by ChatGPT */
 #gallery {
     background-color: var(--secondary-color);
   }
