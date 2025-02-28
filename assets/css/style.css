@@ -410,10 +410,10 @@ h6 {
 
   /* Services Page */
 #emergency-number {
-    color: red;
+    color: #BC1A25!important;
 }
 #emergency-number a {
-    color: red;
+    color: #BC1A25;
 }
 .card-image-top {
     max-height: 357px;
