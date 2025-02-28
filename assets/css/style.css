@@ -32,7 +32,7 @@ h5 {
 
 h1 {
     font-weight: 600;
-    font-size: 5rem;
+    font-size: 4.5rem;
     color: #4E382D;
     text-align: center;
 
@@ -81,16 +81,16 @@ h6 {
 /* Small screens (mobile) */
 @media (max-width: 768px) {
     h1 {
-        font-size: 3.5rem;
+        font-size: 3rem;
     }
     h2 {
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
     h3 {
         font-size: 2rem;
     }
     h4 {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
     h5 {
         font-size: 1.6rem
@@ -98,21 +98,22 @@ h6 {
     h6 {
         font-size: 1.2rem;
     }
+    
 }
 
 /* Extra small screens (small mobile devices) */
 @media (max-width: 576px) {
     h1 {
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
     h2 {
-        font-size: 2.5rem;
+        font-size: 2.2rem;
     }
     h3 {
         font-size: 1.8rem;
     }
     h4 {
-        font-size: 1.6rem;
+        font-size: 1.7rem;
     }
     h5 {
         font-size: 1.4rem
@@ -140,7 +141,7 @@ h6 {
     padding: 4% 15% 4% 15%;
   }
 
-#header h4 {
+#header h3 {
     color: var(--primary-color-dark);
 }
 
@@ -176,7 +177,7 @@ h6 {
     background-color: var(--primary-color);
     color: var(--highlight-color-light);
     font-family: var(--secondary-font)!important;
-    font-size:larger;
+    font-size:large;
 
 }
 
@@ -393,7 +394,7 @@ h6 {
   /* About Page */
 
   #certification {
-    max-width: 400px;
+    max-width: 350px;
 }
 
 #team h2,
@@ -487,4 +488,8 @@ a {
 .hours-table {
     background-color: var(--secondary-color);
     color: var(--highlight-color-light);
+}
+
+.disclaimer p {
+    font-size: 0.8rem;
 }
