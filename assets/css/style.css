@@ -415,6 +415,12 @@ h6 {
     max-height: 357px;
 }
 
+/* Careers Page */
+#careers h2,
+#careers h3 {
+    color: var(--primary-color-dark);
+}
+
 /* Contact form */
 #contact h2,
 #contact .form-label {
