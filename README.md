@@ -4,16 +4,15 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/runwiththerhythm/arc-arborists)](https://www.github.com/runwiththerhythm/arc-arborists/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/runwiththerhythm/arc-arborists)](https://www.github.com/runwiththerhythm/arc-arborists)
 - Arc Arborists is a business website for a fictional arboricultural company called 'Arc Arborists'.
-- The website aims to promote the services of the business and generate leads for them. 
-- It displays all relevant information about the business, highlights their expertise and experience and showcases them to potential customers.
-- The target audience is potential customers who are looking to get arboricultural services and they will benefit from the website by being able to find out more about the company and the services they offer, as well as find reassurance why to hire them from evidence of previous work.
+- The website aims to promote the services of the business, generate leads for them and attract potential new employees. 
+- It displays relevant information about the business, highlights their expertise and experience and showcases them to potential customers.
+- The target audience is potential customers who are looking for arboricultural services.
+- They will benefit from the website by being able to find out more about the company and the services they offer, as well as find reassurance to hire them from evidence of previous work.
 
+
+![Screenshots](documentation/arc-arborists-website-multi-device.png)
 ## Live project
 [View the live project here.](https://runwiththerhythm.github.io/arc-arborists/)
-
-## Screenshots
-
-to be added when complete
 
 ## User experience
 
