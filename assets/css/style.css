@@ -5,6 +5,7 @@
     --primary-font: "Lora", serif;
     --secondary-font: "New Amsterdam", sans-serif;
     --primary-color: #00C143; /* dark pastel green */
+    --primary-color-dark: #008A33; /* forest green */
     --secondary-color: #4E382D; /* brown */
     --highlight-color: #333333; /* charcoal grey */
     --highlight-color-light: #EBDAC2; /* champagne */
@@ -139,6 +140,16 @@ h6 {
     background-position: center; 
     padding: 4% 15% 4% 15%;
   }
+
+#header h4 {
+    color: var(--primary-color-dark);
+}
+
+#header .custom-button-alt {
+    border: 2px solid var(--primary-color-dark)!important;
+    background-color: var(--primary-color-dark)!important;
+
+}
 
 /* Buttons */
 
@@ -371,6 +382,11 @@ h6 {
     font-size: xxx-large;
   }
 
+  .testimonials h5,
+  .testimonials h2 {
+    color: var(--primary-color-dark);
+  }
+
   /* About Page */
 
   #certification {
@@ -392,7 +408,11 @@ h6 {
     max-height: 357px;
 }
 
-
+/* Contact form */
+#contact h2,
+#contact .form-label {
+    color: var(--primary-color-dark);
+}
 
 /* Footer */
 
