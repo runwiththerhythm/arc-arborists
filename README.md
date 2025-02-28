@@ -36,7 +36,6 @@
 - Encourage potential new employees to get in touch.
 
 #### 2. Scope Plane
-##### Features
 - A full list of [Features](#features) can be viewed in detail below.
 
 ##### Content Requirements
@@ -71,13 +70,13 @@
 6. Scrolling the page always ends up at the contact form.
 
 #### 4. Skeleton Plane
-##### Wireframes
+##### Wireframes Ideas
  - Sitemap![Sitemap wireframe](documentation/wireframes/sitemap-wireframe.png)
  - To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.![Responsive layouts wireframes](documentation/wireframes/arc-arborists-wireframes.png)
 
 #### 5. Surface Plane
-##### Visual Design Elements
-### Colour scheme
+#### Visual Design Elements
+##### Colour scheme
 ![Colour Scheme](documentation/coolors.png)
 Shades of green and light and dark brown, chosen to reflect the leaves, wood and bark of trees and to provide contrast between the colours.
 
@@ -113,9 +112,8 @@ Shades of green and light and dark brown, chosen to reflect the leaves, wood and
   - As the Business Owner, I want to prominently display information about our emergency 24/7 service with out of hours contact details.
   - As the Business Owner, I want to feature a Careers page to attract new employees.
 
-## Pages and Features 
+## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Global Header
 
@@ -125,7 +123,8 @@ In this section, you should go over the different parts of your project, and des
   - The first thing the user sees is a logo of a tree letting them know immediately the kind of business they are viewing.
   - The main navigation menu features links to the Home page, a dropdown menu links to sections of the Services page, also links to the About page, Gallery section, Contact section, Blog and a CTA button that takes you straight to the contact form.
   - The navbar is identical on each page to allow for easy navigation and consistency across all devices without having to revert back to the previous page via the ‘back’ button. 
-![Navigation](documentation/features/navigation.png)
+
+![Navigation](documentation/features/navigation-bar.png)
 
 ### Home Page
 
@@ -135,12 +134,18 @@ In this section, you should go over the different parts of your project, and des
   - This section introduces the user to Arc Arborists with an eye catching animation to grab their attention and the ability to interact with the carousel to view through the photos.
   - Two CTA buttons allow the use to quickly access the Contact form for a quote and emergency assistance saving them time for the most common and important actions.
 
+![Hero](documentation/features/hero-section.png)
+
 
 - __Our Services__
 
   - The 'Our Services' title is visible in the above-the-fold section to entice the user to scroll down and let them know there is more information to view below.
   - Three large 'Services' cards with high quality images, representative icons, and SEO keyword rich descriptions of the businesses key services.
   - This will allow the user to clearly get an idea of the main types of services offered by the business.
+  
+  
+![Services Main](documentation/features/services-main.png)
+
   - Smaller 'Services' cards with visually descriptive icons and SEO keyword rich titles of more of the businesses services.
   - This gives the user more information on other services the business offers and eye catching icons help visually inform of the service.
 
@@ -148,11 +153,15 @@ In this section, you should go over the different parts of your project, and des
 
   - The 'Testimonials' will provide the user with reviews of the company and supporting statements from previous clients.
   - This section is valuable to the user as they will be able to see evidence of previous satisfied clients giving them a sense of reassurance when deciding to hire the company.
+
+![Hero](documentation/features/testimonials.png)
+
  
 - __Gallery__
 
   - The 'Gallery' section displays a masonry carousel of high quality images of the businesses work and services and the team in action. 
   - This section is valuable to the user as they will be able to see evidence of the team working and work they have carried out in the past, again reassuring the user and giving good promotion to the business. 
+
 ![Gallery](documentation/features/gallery.png)
 
 ### Global Footer
@@ -161,6 +170,7 @@ In this section, you should go over the different parts of your project, and des
 
   - This section allows the user to contact the company. The user is asked to submit their name, email address, phone number and message. 
   - To provide the most information to the business about the user request, all fields are required and there is a dropdown menu to select the service required.
+
 ![Contact](documentation/features/contact-form.png)
 
 - __Footer__ 
@@ -182,20 +192,28 @@ In this section, you should go over the different parts of your project, and des
 - __Introduction__
 
   - A brief description about the company to introduce the business.
-  - This lets potential customers know more about the business and their values.
+  - Appropriate certifications of qualifications and skills are displayed.
+  - This lets potential customers know more about the business, their values and there expertise.
+
+![About](documentation/features/about-introduction.png)
+
 
 - __Meet our Team__
 
   - The Team section introduces the main team members of the business.
   - It features a circular photograph, name, role and description for each member.
   - This allows visitors to connect with the business on a more personal level and builds trust and reassurance.
+
 ![Team](documentation/features/team.png)
 
 
 - __Recruitment__
 
   - This sections links to the Careers page.
-  - As well as providing value to potential employees it helps SEO as an internal link.
+  - As well as providing value to potential employees it helps SEO and navigation as an internal link.
+
+![Recruitment](documentation/features/join-team.png)
+
 
 ### Blog Page
 
@@ -203,7 +221,16 @@ WORK IN PROGRESS
 
 ### Careers Page
 
-WORK IN PROGRESS
+- __Work with us__
+
+  - This section lists some of the benefits of working with the company.
+
+- __Current Opportunities__
+
+  - The rest of the page provides detail of current vacancies and training opportunities.
+  - This provides value to the business owner to find new staff and makes it easy for potential employees to see details about vacancies with details to apply.
+
+![Careers](documentation/features/careers-page.png)
 
 ### Future Features
 
