@@ -56,7 +56,6 @@ h5 {
     font-size: 2rem;
     }
 
-
 h6 {
     font-size: 1.4rem;
 }
@@ -149,6 +148,10 @@ h6 {
     border: 2px solid var(--primary-color-dark)!important;
     background-color: var(--primary-color-dark)!important;
 
+}
+
+#header .custom-button-alt:hover {
+    color: var(--highlight-color-light);
 }
 
 /* Buttons */
