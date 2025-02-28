@@ -393,6 +393,13 @@ h6 {
     max-width: 400px;
 }
 
+#team h2,
+#team h3,
+#team a {
+    color: var(--primary-color-dark);
+
+}
+
 .team-members img {
     width: 150px
   }
