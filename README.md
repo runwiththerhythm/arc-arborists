@@ -381,11 +381,6 @@ Due to the colour variation in the footer image, I have used a drop show effect 
 
 My initial commit messages did not start with a capital letter and were not always descriptive enough. After some helpful advice from my Code Institute mentor I have improved these since.
 
-| Issue | Screenshot |
-| --- | --- |
-| On devices smaller than 375px, the page starts to have horizontal `overflow-x` scrolling. | ![screenshot](documentation/issues/overflow.png) |
-| When validating HTML with a semantic `<section>` element, the validator warns about lacking a header `h2-h6`. This is acceptable. | ![screenshot](documentation/issues/section-header.png) |
-
 > [!IMPORTANT]
 > After having tested the site thoroughly, there are no remaining bugs that I am aware of, however there is always a small possibility something may have been missed or not initiated.
 
@@ -431,29 +426,42 @@ By forking the GitHub Repository, you make a copy of the original repository on 
 
 ### Local VS Deployment
 
-Use this space to discuss any differences between the local version you've developed, and the live deployment site. Generally, there shouldn't be [m]any major differences, so if you honestly cannot find any differences, feel free to use the following example:
-
 There are no remaining major differences between the local version when compared to the deployed version online.
 
 ## Acknowledgements  
 
 ### Content 
 
-- Some content has been created with the assistance of AI - LLMs.
 - Previous tutorial projects, [Love Running](https://runwiththerhythm.github.io/love-running/) and [Boardwalk Games](https://runwiththerhythm.github.io/boardwalk-games/) were used for inspiration and code tutorials.
+
+- [ChatGPT](https://chatgpt.com/) was used to help create content and research for the site.
 
 ### Media
 
-- Stock images are from [Canva](https://canva.com/) and <a href="https://unsplash.com/photos/man-cutting-brown-tree-during-daytime-_b9mXKt0fc4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Stock images are from [Canva](https://canva.com/) via SolStock Getty Images and <a href="https://unsplash.com/photos/man-cutting-brown-tree-during-daytime-_b9mXKt0fc4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
-
+- YouTube video is from [Beechwood Arborists](https://www.beechwoodtrees.co.uk/) [YouTube](https://www.youtube.com/watch?v=zfVofQA4hKA&t=48s)
 ### Icons
 
 - The majority of icons used are from [Flaticon](https://www.flaticon.com/icons/)
 - Created by [juicy_fish](https://www.flaticon.com/authors/juicy-fish/), [Freepik](https://www.flaticon.com/authors/freepik), [Backwoods](https://www.flaticon.com/authors/backwoods),
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
-- Custom created SVGs
+- [Font Awesome](https://fontawesome.com/)
 
-I used [coolors.co](https://coolors.co/16a34a-00832d-166534-ebdac2-4e382d) to generate my color palette.
+### Tools and Technologies
 
-I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
+  - [Coolors.co](https://coolors.co/16a34a-00832d-166534-ebdac2-4e382d) to generate the color palette.
+
+  - [Balsamiq](https://balsamiq.com/wireframes) to design the site wireframes.
+
+  - [TinyPNG](https://tinypng.com/) to compress images.
+
+  - [Markdown Builder](https://markdown.2bn.dev) for readme templates.
+
+  - [ChatGPT](https://chatgpt.com/) to troubleshoot, debug, research and help with code.
+
+  - [YouTube](https://youtube.com/) for the embedded video.
+
+  - [GIMP](https://gimp.org/) for photo editing.
+
+  - [Canva](https://canva.com/) for photo editing and stock images.
