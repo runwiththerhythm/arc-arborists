@@ -112,6 +112,16 @@ Shades of green and light and dark brown, chosen to reflect the leaves, wood and
   - As the Business Owner, I want to prominently display information about our emergency 24/7 service with out of hours contact details.
   - As the Business Owner, I want to feature a Careers page to attract new employees.
 
+## Technologies used
+
+### Languages
+- [HTML](https://en.wikipedia.org/wiki/HTML5)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+
+### Frameworks, Libraries etc
+
+- [Bootstrap 5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+
 ## Features 
 
 
@@ -251,17 +261,6 @@ Shades of green and light and dark brown, chosen to reflect the leaves, wood and
 
   - A google map of the companies location could be added to improve their local SEO and allow clients to locate their offices.
 
-
-## Technologies used
-
-### Languages
-- [HTML](https://en.wikipedia.org/wiki/HTML5)
-- [CSS](https://en.wikipedia.org/wiki/CSS)
-
-### Frameworks, Libraries etc
-
-- [Bootstrap 5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-
 ## Testing 
 
 ### Manual testing
@@ -348,12 +347,6 @@ Areas of user input have been tested thoroughly.
 
 
 ## Bugs
-
-If/when you encounter bugs during the development stages of your project, you should document them here, ideally with a screenshot explaining what the issue was, and what you did to fix the bug.
-
-Alternatively, an improved way to manage bugs is to use the built-in **[Issues](https://www.github.com/runwiththerhythm/arc-arborists/issues)** tracker on your GitHub repository. This can be found at the top of your repository, the tab called "Issues".
-
-If using the Issues tracker for bug management, you can simplify the documentation process for testing. Issues allow you to directly paste screenshots into the issue page without having to first save the screenshot locally. You can add labels to your issues (e.g. `bug`), assign yourself as the owner, and add comments/updates as you progress with fixing the issue(s). Once you've solved the issue/bug, you should then "Close" it.
 
 ### Fixed Bugs
 
