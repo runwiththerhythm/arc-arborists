@@ -282,15 +282,17 @@ Shades of green and light and dark brown, chosen to reflect the leaves, wood and
 | About page \| YouTube video                 | Click to play to video                                               | Video plays successfully                                                                |
 
 ### Validator Testing 
-
-- HTML
-  - Home:
-  - About:
-  - Services:
-  - Careers:
-  - 404:
-  - Success:
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+| Page | Link | Screenshot |
+| --- | --- | --- |
+| HTML | | |
+| Home | [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frunwiththerhythm.github.io%2Farc-arborists%2Findex.html)| ![screenshot]()|
+| About | [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frunwiththerhythm.github.io%2Farc-arborists%2Fabout.html)| ![screenshot]()|
+| Services | [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frunwiththerhythm.github.io%2Farc-arborists%2Fservices.html)| ![screenshot]()|
+| Careers | [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frunwiththerhythm.github.io%2Farc-arborists%2Fcareers.html)| ![screenshot]()|
+| 404 | [W3C validator]()| ![screenshot]()|
+| Success | [W3C validator]()| ![screenshot]()|
+| CSS | | |
+  
 - CSS <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
