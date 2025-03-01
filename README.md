@@ -335,7 +335,7 @@ To improve the scores I have compressed images and corrected ARIA attributes to 
 | --- | --- | --- |
 | Home | ![screenshot](documentation/testing/home-mobile-lighthouse.png) | ![screenshot](documentation/testing/home-desktop-lighthouse.png) |
 | Services | ![screenshot](documentation/testing/services-desktop-lighthouse.png) | ![screenshot](documentation/testing/services-desktop-lighthouse.png) |
-| About | ![screenshot](documentation/lighthouse/mobile-signup.png) | ![screenshot](documentation/lighthouse/desktop-signup.png) |
+| About | ![screenshot](documentation/testing/about-mobile-lighthouse.png) | ![screenshot](documentation/testing/about-desktop-lighthouse.png) |
 | Careers | ![screenshot](documentation/testing/careers-mobile-lighthouse.png) | ![screenshot](documentation/testing/careers-desktop-lighthouse.png) |
 | 404 | ![screenshot](documentation/testing/404-mobile-lighthouse.png) | ![screenshot](documentation/testing/404-desktop-lighthouse.png) |
 
