@@ -49,16 +49,16 @@
 #### 3. Structure Plane
 ##### Information Architecture
 - **Navigation Menu**:
-  - Company logo
-  - Phone number
+  - Company logo.
+  - Phone number.
   - Accessible links in the navbar.
 - **Hierarchy**:
-  - Eye catching Hero section
+  - Eye catching Hero section.
   - Clear call-to-action buttons.
-  - Services section first as most important
-  - Gallery of past work
-  - Contact form above the footer
-  - Quick links and contact info in footer
+  - Services section first as most important.
+  - Gallery of past work.
+  - Contact form above the footer.
+  - Quick links and contact info in footer.
   - Prominent placement of social media links in the footer.
 
 ##### User Flow
