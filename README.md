@@ -236,7 +236,14 @@ WORK IN PROGRESS
 
 ### Future Features
 
-WORK IN PROGRESS
+- Blog
+  - A blog will be implemented in the future to provide resources for users and the improve SEO for the business.
+- Booking system
+  - A booking system could be implemented to allow users to book a specific time for their initial consultation.
+- Location Map
+
+  - A google map of the companies location could be added to improve their local SEO and allow clients to locate their offices.
+
 
 ## Technologies used
 
