@@ -219,6 +219,14 @@ Shades of green and light and dark brown, chosen to reflect the leaves, wood and
 
 ![Recruitment](documentation/features/join-team.png)
 
+- __Video__
+
+  - A professional looking youtube video featuring a tree surgeon felling a tree with an arborist company.
+  - This embedded video allows the user to control playback and open the video on YouTube.
+  - This gives more evidence of the companies authenticity and shows them carrying out highly skilled work.
+
+![Youtube video](documentation/features/youtube-video.png)
+
 
 ### Careers Page
 
