@@ -256,15 +256,7 @@ Shades of green and light and dark brown, chosen to reflect the leaves, wood and
 
 ## Testing 
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-
-When testing my project using lighthouse I found the following issues and improved the improve the site.
-
-- Images were too large and this was impacting loading times. To fix this I resized the images and improved the load time.
-- ........????????? anything else?
+### Manual testing
 
 | Feature                                 | Test Case                                      | Outcome                                                         |
 | --------------------------------------- | ---------------------------------------------- | --------------------------------------------------------------- |
@@ -306,9 +298,9 @@ I've tested my deployed project to check for responsiveness issues.
 | Page | Mobile | Tablet | Desktop | Notes |
 | --- | --- | --- | --- | --- |
 | Home | ![screenshot](documentation/responsiveness/mobile-home.png) | ![screenshot](documentation/responsiveness/tablet-home.png) | ![screenshot](documentation/responsiveness/desktop-home.png) | Works as expected |
-| Gallery | ![screenshot](documentation/responsiveness/mobile-gallery.png) | ![screenshot](documentation/responsiveness/tablet-gallery.png) | ![screenshot](documentation/responsiveness/desktop-gallery.png) | Works as expected |
-| Signup | ![screenshot](documentation/responsiveness/mobile-signup.png) | ![screenshot](documentation/responsiveness/tablet-signup.png) | ![screenshot](documentation/responsiveness/desktop-signup.png) | Works as expected |
-| Confirmation | ![screenshot](documentation/responsiveness/mobile-confirmation.png) | ![screenshot](documentation/responsiveness/tablet-confirmation.png) | ![screenshot](documentation/responsiveness/desktop-confirmation.png) | Works as expected |
+| Services | ![screenshot](documentation/responsiveness/mobile-gallery.png) | ![screenshot](documentation/responsiveness/tablet-gallery.png) | ![screenshot](documentation/responsiveness/desktop-gallery.png) | Works as expected |
+| About | ![screenshot](documentation/responsiveness/mobile-signup.png) | ![screenshot](documentation/responsiveness/tablet-signup.png) | ![screenshot](documentation/responsiveness/desktop-signup.png) | Works as expected |
+| Careers | ![screenshot](documentation/responsiveness/mobile-confirmation.png) | ![screenshot](documentation/responsiveness/tablet-confirmation.png) | ![screenshot](documentation/responsiveness/desktop-confirmation.png) | Works as expected |
 | 404 | ![screenshot](documentation/responsiveness/mobile-404.png) | ![screenshot](documentation/responsiveness/tablet-404.png) | ![screenshot](documentation/responsiveness/desktop-404.png) | Works as expected |
 
 ## Browser Compatibility
@@ -318,13 +310,12 @@ The deployed site has been tested using the following browsers to check for comp
 - [Firefox](https://www.mozilla.org/firefox)
 - [Brave](https://brave.com/download)
 
-| Page | Chrome | Firefox | Safari | Notes |
+| Page | Chrome | Firefox | Brave | Notes |
 | --- | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/browsers/chrome-home.png) | ![screenshot](documentation/browsers/firefox-home.png) | ![screenshot](documentation/browsers/safari-home.png) | Works as expected |
-| Services | ![screenshot](documentation/browsers/chrome-gallery.png) | ![screenshot](documentation/browsers/firefox-gallery.png) | ![screenshot](documentation/browsers/safari-gallery.png) | Works as expected |
-| About | ![screenshot](documentation/browsers/chrome-signup.png) | ![screenshot](documentation/browsers/firefox-signup.png) | ![screenshot](documentation/browsers/safari-signup.png) | Works as expected |
-| Careers | ![screenshot](documentation/browsers/chrome-confirmation.png) | ![screenshot](documentation/browsers/firefox-confirmation.png) | ![screenshot](documentation/browsers/safari-confirmation.png) | Works as expected |
-| 404 | ![screenshot](documentation/browsers/chrome-404.png) | ![screenshot](documentation/browsers/firefox-404.png) | ![screenshot](documentation/browsers/safari-404.png) | Works as expected |
+| Home | ![screenshot](documentation/testing/home-chrome.png) | ![screenshot](documentation/testing/home-firefox-desktop.png) | ![screenshot](documentation/testing/home-brave.png) | Works as expected |
+| Services | ![screenshot](documentation/testing/services-chrome.png) | ![screenshot](documentation/testing/services-firefox-desktop.png) | ![screenshot](documentation/testing/services-brave.png) | Works as expected |
+| About | ![screenshot](documentation/testing/about-chrome.png) | ![screenshot](documentation/testing/about-firefox-desktop.png) | ![screenshot](documentation/testing/about-brave.png) | Works as expected |
+| Careers | ![screenshot](documentation/testing/careers-chrome.png) | ![screenshot](documentation/testing/careers-firefox-desktop.png) | ![screenshot](documentation/testing/careers-brave.png) | Works as expected |
 
 ## Lighthouse Audit
 
