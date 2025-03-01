@@ -285,19 +285,14 @@ Shades of green and light and dark brown, chosen to reflect the leaves, wood and
 | Page | Link | Screenshot |
 | --- | --- | --- |
 | HTML | | |
-| Home | [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frunwiththerhythm.github.io%2Farc-arborists%2Findex.html)| ![screenshot]()|
-| About | [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frunwiththerhythm.github.io%2Farc-arborists%2Fabout.html)| ![screenshot]()|
-| Services | [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frunwiththerhythm.github.io%2Farc-arborists%2Fservices.html)| ![screenshot]()|
-| Careers | [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frunwiththerhythm.github.io%2Farc-arborists%2Fcareers.html)| ![screenshot]()|
-| 404 | [W3C validator]()| ![screenshot]()|
-| Success | [W3C validator]()| ![screenshot]()|
-| CSS | | |
+| Home | [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frunwiththerhythm.github.io%2Farc-arborists%2Findex.html)| ![screenshot](documentation/testing/home-page-html-validation-errors.png)![screenshot](documentation/testing/index-html.png)|
+| About | [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frunwiththerhythm.github.io%2Farc-arborists%2Fabout.html)| ![screenshot](documentation/testing/about-html-validation-errors.png)![screenshot](documentation/testing/about-html.png)|
+| Services | [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frunwiththerhythm.github.io%2Farc-arborists%2Fservices.html)| ![screenshot](documentation/testing/services-html.png)|
+| Careers | [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frunwiththerhythm.github.io%2Farc-arborists%2Fcareers.html)| ![screenshot](documentation/testing/careers-html.png)|
+| 404 | [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frunwiththerhythm.github.io%2Farc-arborists%2F404.html)| ![screenshot](documentation/testing/404-html.png)|
+| Success | [W3C validator]()| ![screenshot](documentation/testing/success-html.png)|
+| CSS | [W3C validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frunwiththerhythm.github.io%2Farc-arborists%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)| ![screenshot](documentation/testing/css-validation.png)|
   
-- CSS <a href="https://jigsaw.w3.org/css-validator/check/referer">
-        <img style="border:0;width:88px;height:31px"
-            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
-            alt="Valid CSS!"></a>
-  - No errors were found when passing through the official [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Frunwiththerhythm.github.io%2Farc-arborists%2F&usermedium=all&vextwarning=&warning=1)
 
 ### Responsive Testing 
 
