@@ -282,17 +282,13 @@ When testing my project using lighthouse I found the following issues and improv
 | Our Services \| Tree Surgery            | Click the 'Learn more' button                  | User is taken to Tree Surgery section on 'Services' page        |
 | Our Services \| Tree Surveys            | Click the 'Learn more' button                  | User is taken to Tree Survey section on 'Services' page         |
 | Our Services \| Emergency Tree Services | Click the 'Learn more' button                  | User is taken to Emergency Tree Care section on 'Services' page |
-|                                         |                                                |                                                                 |
-|                                         |                                                |                                                                 |
-|                                         |                                                |                                                                 |
-|                                         |                                                |                                                                 |
-|                                         |                                                |                                                                 |
 | Contact Form                            | Submit an empty form                           | Error for required field to be filled out                       |
 | Contact Form \| Name                    | Submit with empty field                        | Error for required field to be filled out                       |
-| Contact Form \| Email                   | Submit text string without @                   |                                                                 |
-| Contact Form \| Phone number            | Submit text string without numbers             |                                                                 |
-| Contact Form \| Service required        |                                                |                                                                 |
-| Contact Form \| Message                 |                                                |                                                                 |
+| Contact Form \| Email                   | Submit text string without @                   | Error for required field to be filled out                                                                |
+| Contact Form \| Phone number            | Submit text string without numbers             | Error for required field to be filled out                                                                |
+| Contact Form \| Service required        | Submit with no option selected                                               | Error for required field to be filled out                                                                |
+| Contact Form \| Message                 | Submit with no message                                               | Error for required field to be filled out                                                                |
+| About page \| YouTube video                 | Click to play to video                                               | Video plays successfully                                                                |
 
 ### Validator Testing 
 
