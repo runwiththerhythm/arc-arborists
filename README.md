@@ -296,15 +296,15 @@ Shades of green and light and dark brown, chosen to reflect the leaves, wood and
 
 ### Responsive Testing 
 
-I've tested my deployed project to check for responsiveness issues.
+The deployed project has been tested for responsiveness issues across a wide range of devices.
 
 | Page | Mobile | Tablet | Desktop | Notes |
 | --- | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/responsiveness/mobile-home.png) | ![screenshot](documentation/responsiveness/tablet-home.png) | ![screenshot](documentation/responsiveness/desktop-home.png) | Works as expected |
-| Services | ![screenshot](documentation/responsiveness/mobile-gallery.png) | ![screenshot](documentation/responsiveness/tablet-gallery.png) | ![screenshot](documentation/responsiveness/desktop-gallery.png) | Works as expected |
-| About | ![screenshot](documentation/responsiveness/mobile-signup.png) | ![screenshot](documentation/responsiveness/tablet-signup.png) | ![screenshot](documentation/responsiveness/desktop-signup.png) | Works as expected |
-| Careers | ![screenshot](documentation/responsiveness/mobile-confirmation.png) | ![screenshot](documentation/responsiveness/tablet-confirmation.png) | ![screenshot](documentation/responsiveness/desktop-confirmation.png) | Works as expected |
-| 404 | ![screenshot](documentation/responsiveness/mobile-404.png) | ![screenshot](documentation/responsiveness/tablet-404.png) | ![screenshot](documentation/responsiveness/desktop-404.png) | Works as expected |
+| Home | ![screenshot](documentation/testing/home-mobile.png) | ![screenshot](documentation/testing/home-tablet.png) | ![screenshot](documentation/testing/home-firefox-desktop.png) | Works as expected |
+| Services | ![screenshot](documentation/testing/services-mobile.png) | ![screenshot](documentation/testing/services-tablet.png) | ![screenshot](documentation/testing/services-firefox-desktop.png) | Works as expected |
+| About | ![screenshot](documentation/testing/about-mobile.png) | ![screenshot](documentation/testing/about-tablet.png) | ![screenshot](documentation/testing/about-chrome.png) | Works as expected |
+| Careers | ![screenshot](documentation/testing/careers-mobile.png) | ![screenshot](documentation/testing/careers-tablet.png) | ![screenshot](documentation/testing/careers-firefox-desktop.png) | Works as expected |
+| 404 | ![screenshot](documentation/testing/404-mobile.png) | ![screenshot](documentation/testing/404-tablet.png) | ![screenshot](documentation/features/404-page.png) | Works as expected |
 
 ## Browser Compatibility
 
