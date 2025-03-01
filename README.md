@@ -328,25 +328,16 @@ The deployed site has been tested using the following browsers to check for comp
 
 ## Lighthouse Audit
 
-⚠️ INSTRUCTIONS ⚠️
-
-Use this space to discuss testing the live/deployed site's Lighthouse Audit reports. Avoid testing the local version (Gitpod/VSCode/etc.), as this can have knock-on effects for performance. If you don't have "Lighthouse" in your Developer Tools, it can be added as an [extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk).
-
-Unless your project is a single-page application (SPA), you should test Lighthouse Audit results for all of your pages, for both *mobile* and *desktop*.
-
-**IMPORTANT**: You must provide screenshots of the results, to "prove" that you've actually tested them.
-
-⚠️ --- END --- ⚠️
-
-I've tested my deployed project using the Lighthouse Audit tool to check for any major issues. Some warnings are outside of my control, and mobile results tend to be lower than desktop.
+The deployed project has been tested using the Google Lighthouse Audit tool to check for any major issues. Mobile results are expected to be lower than desktop.
+To improve the scores I have compressed images and corrected ARIA attributes to improve accessibility.
 
 | Page | Mobile | Desktop |
 | --- | --- | --- |
-| Home | ![screenshot](documentation/lighthouse/mobile-home.png) | ![screenshot](documentation/lighthouse/desktop-home.png) |
-| Gallery | ![screenshot](documentation/lighthouse/mobile-gallery.png) | ![screenshot](documentation/lighthouse/desktop-gallery.png) |
-| Signup | ![screenshot](documentation/lighthouse/mobile-signup.png) | ![screenshot](documentation/lighthouse/desktop-signup.png) |
-| Confirmation | ![screenshot](documentation/lighthouse/mobile-confirmation.png) | ![screenshot](documentation/lighthouse/desktop-confirmation.png) |
-| 404 | ![screenshot](documentation/lighthouse/mobile-404.png) | ![screenshot](documentation/lighthouse/desktop-404.png) |
+| Home | ![screenshot](documentation/testing/home-mobile-lighthouse.png) | ![screenshot](documentation/testing/home-desktop-lighthouse.png) |
+| Services | ![screenshot](documentation/testing/services-desktop-lighthouse.png) | ![screenshot](documentation/testing/services-desktop-lighthouse.png) |
+| About | ![screenshot](documentation/lighthouse/mobile-signup.png) | ![screenshot](documentation/lighthouse/desktop-signup.png) |
+| Careers | ![screenshot](documentation/testing/careers-mobile-lighthouse.png) | ![screenshot](documentation/testing/careers-desktop-lighthouse.png) |
+| 404 | ![screenshot](documentation/testing/404-mobile-lighthouse.png) | ![screenshot](documentation/testing/404-desktop-lighthouse.png) |
 
 ## Defensive Programming
 
