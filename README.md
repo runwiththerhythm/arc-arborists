@@ -149,6 +149,9 @@ Shades of green and light and dark brown, chosen to reflect the leaves, wood and
   - Smaller 'Services' cards with visually descriptive icons and SEO keyword rich titles of more of the businesses services.
   - This gives the user more information on other services the business offers and eye catching icons help visually inform of the service.
 
+![Services Cards](documentation/features/services-cards-small.png)
+
+
 - __Testimonials__
 
   - The 'Testimonials' will provide the user with reviews of the company and supporting statements from previous clients.
@@ -347,7 +350,8 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ## Defensive Programming
 
-Areas of user input have been tested 
+Areas of user input have been tested thoroughly.
+![Contact form](documentation/testing/defensive-testing-contact-form.png)
 
 
 ## Bugs
@@ -357,8 +361,6 @@ If/when you encounter bugs during the development stages of your project, you sh
 Alternatively, an improved way to manage bugs is to use the built-in **[Issues](https://www.github.com/runwiththerhythm/arc-arborists/issues)** tracker on your GitHub repository. This can be found at the top of your repository, the tab called "Issues".
 
 If using the Issues tracker for bug management, you can simplify the documentation process for testing. Issues allow you to directly paste screenshots into the issue page without having to first save the screenshot locally. You can add labels to your issues (e.g. `bug`), assign yourself as the owner, and add comments/updates as you progress with fixing the issue(s). Once you've solved the issue/bug, you should then "Close" it.
-
-When showcasing your bug tracking for assessment, you can use the following examples below.
 
 ### Fixed Bugs
 
@@ -372,15 +374,13 @@ All previously closed/fixed bugs can be tracked [here](https://www.github.com/ru
 
 ### Unfixed Bugs
 
-You will need to mention any unfixed bugs and why they are not fixed upon submission of your project. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. Where possible, you must fix all outstanding bugs, unless outside of your control.
-
-If you've identified any unfixed bugs, no matter how small, be sure to list them here! It's better to be honest and list them, because if it's not documented and an assessor finds the issue, they need to know whether or not you're aware of them as well, and why you've not corrected/fixed them.
+- All bugs have been fixed and there are no remaining open bugs.
+- One remaining issue is open for implementation of a blog which will be added in the future.
 
 [![GitHub issues](https://img.shields.io/github/issues/runwiththerhythm/arc-arborists)](https://www.github.com/runwiththerhythm/arc-arborists/issues)
 
 Any remaining open issues can be tracked [here](https://www.github.com/runwiththerhythm/arc-arborists/issues).
 
-![screenshot](documentation/bugs/gh-issues-open.png)
 
 ### Known Issues
 
@@ -446,7 +446,8 @@ There are no remaining major differences between the local version when compared
 
 ### Content 
 
-- Some content has been created with the assistance of AI.
+- Some content has been created with the assistance of AI - LLMs.
+- Previous tutorial projects, [Love Running](https://runwiththerhythm.github.io/love-running/) and [Boardwalk Games](https://runwiththerhythm.github.io/boardwalk-games/) were used for inspiration and code tutorials.
 
 ### Media
 
