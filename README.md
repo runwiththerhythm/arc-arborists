@@ -217,10 +217,6 @@ Shades of green and light and dark brown, chosen to reflect the leaves, wood and
 ![Recruitment](documentation/features/join-team.png)
 
 
-### Blog Page
-
-WORK IN PROGRESS
-
 ### Careers Page
 
 - __Work with us__
@@ -300,6 +296,8 @@ When testing my project using lighthouse I found the following issues and improv
             alt="Valid CSS!"></a>
   - No errors were found when passing through the official [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Frunwiththerhythm.github.io%2Farc-arborists%2F&usermedium=all&vextwarning=&warning=1)
 
+### Responsive Testing 
+
 I've tested my deployed project to check for responsiveness issues.
 
 | Page | Mobile | Tablet | Desktop | Notes |
@@ -349,15 +347,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ## Defensive Programming
 
-⚠️ INSTRUCTIONS ⚠️
-
-Defensive programming (defensive design) is extremely important! When building projects that accept user inputs or forms, you should always test the level of security for each form field. Examples of this could include (but not limited to):
-
-All Projects:
-
-- Users cannot submit an empty form (add the `required` attribute)
-- Users must enter valid field types (ensure the correct input `type=""` is used)
-- Users cannot brute-force a URL to navigate to a restricted pages
+Areas of user input have been tested 
 
 
 ## Bugs
@@ -394,14 +384,17 @@ Any remaining open issues can be tracked [here](https://www.github.com/runwithth
 
 ### Known Issues
 
+Due to the colour variation in the footer image, I have used a drop show effect to outline some of the text to ensure it can be read easily across all devices. This has caused issue with some colour contrast checkers, however I have made changes to the shades of green used to ensure the best contrast between foreground and background colours across the site.
+
+My initial commit messages did not start with a capital letter and were not always descriptive enough. After some helpful advice from my Code Institute mentor I have improved these since.
+
 | Issue | Screenshot |
 | --- | --- |
 | On devices smaller than 375px, the page starts to have horizontal `overflow-x` scrolling. | ![screenshot](documentation/issues/overflow.png) |
 | When validating HTML with a semantic `<section>` element, the validator warns about lacking a header `h2-h6`. This is acceptable. | ![screenshot](documentation/issues/section-header.png) |
 
 > [!IMPORTANT]
-> There are no remaining bugs that I am aware of, though, even after thorough testing, I cannot rule out the possibility.
-
+> After having tested the site thoroughly, there are no remaining bugs that I am aware of, however there is always a small possibility something may have been missed or not initiated.
 
 ## Deployment
 
